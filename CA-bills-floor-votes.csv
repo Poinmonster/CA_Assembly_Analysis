@@ -1,0 +1,925 @@
+,Bill,Sponsor,Ayes,Nays,Abstentions,Venue,Sponsor Last Names,Dem Sponsors,Rep Sponsors
+1,AB1,Cooper (A) ,68,1,12,Floor,['Cooper (A) '],1,0
+2,AB2,"Santiago (A) , Bonta (A) , Cervantes (A) , Chiu (A) , Friedman (A) , Gonzalez (A) , McCarty (A) , Quirk-Silva (A) ",72,1,8,Floor,"['Santiago (A) ', ' Bonta (A) ', ' Cervantes (A) ', ' Chiu (A) ', ' Friedman (A) ', ' Gonzalez (A) ', ' McCarty (A) ', ' Quirk-Silva (A) ']",8,0
+4,AB4,"Arambula (A) , Bonta (A) , Chiu (A) , Gonzalez (A) , Santiago (A) ",51,17,12,Floor,"['Arambula (A) ', ' Bonta (A) ', ' Chiu (A) ', ' Gonzalez (A) ', ' Santiago (A) ']",5,0
+5,AB5,Gonzalez (A) ,59,15,6,Floor,['Gonzalez (A) '],1,0
+6,AB6,"Reyes (A) , McCarty (A) ",72,1,8,Floor,"['Reyes (A) ', ' McCarty (A) ']",2,0
+7,AB7,"Chu (A) , Gonzalez (A) , Obernolte (A) ",72,1,8,Floor,"['Chu (A) ', ' Gonzalez (A) ', ' Obernolte (A) ']",2,1
+8,AB8,"Chu (A) , Eduardo Garcia (A) ",62,8,10,Floor,"['Chu (A) ', ' Eduardo Garcia (A) ']",1,0
+9,AB9,"Reyes (A) , Friedman (A) , Waldron (A) ",53,5,22,Floor,"['Reyes (A) ', ' Friedman (A) ', ' Waldron (A) ']",2,1
+10,AB10,"Chiu (A) , Bonta (A) , Maienschein (A) , Reyes (A) , Wicks (A) ",77,1,3,Floor,"['Chiu (A) ', ' Bonta (A) ', ' Maienschein (A) ', ' Reyes (A) ', ' Wicks (A) ']",5,0
+12,AB12,"Irwin (A) , Ting (A) ",53,13,14,Floor,"['Irwin (A) ', ' Ting (A) ']",2,0
+15,AB15,"Nazarian (A) , McCarty (A) , Ting (A) ",77,1,3,Floor,"['Nazarian (A) ', ' McCarty (A) ', ' Ting (A) ']",3,0
+16,AB16,Luz Rivas (A) ,78,1,2,Floor,['Luz Rivas (A) '],0,0
+23,AB23,Burke (A) ,76,1,4,Floor,['Burke (A) '],1,0
+25,AB25,Chau (A) ,77,1,3,Floor,['Chau (A) '],1,0
+28,AB28,Obernolte (A) ,78,1,2,Floor,['Obernolte (A) '],0,1
+29,AB29,Holden (A) ,57,13,10,Floor,['Holden (A) '],1,0
+30,AB30,Holden (A) ,76,1,4,Floor,['Holden (A) '],1,0
+32,AB32,"Bonta (A) , Chiu (A) , Gloria (A) , Gonzalez (A) , Kamlager-Dove (A) , Santiago (A) ",61,13,6,Floor,"['Bonta (A) ', ' Chiu (A) ', ' Gloria (A) ', ' Gonzalez (A) ', ' Kamlager-Dove (A) ', ' Santiago (A) ']",4,0
+35,AB35,"Kalra (A) , Cristina Garcia (A) ",49,22,9,Floor,"['Kalra (A) ', ' Cristina Garcia (A) ']",1,0
+37,AB37,Jones-Sawyer (A) ,69,1,10,Floor,['Jones-Sawyer (A) '],1,0
+38,AB38,Wood (A) ,70,2,8,Floor,['Wood (A) '],1,0
+39,AB39,"Muratsuchi (A) , McCarty (A) , Obernolte (A) ",74,1,6,Floor,"['Muratsuchi (A) ', ' McCarty (A) ', ' Obernolte (A) ']",2,1
+41,AB41,Gallagher (A) ,78,1,2,Floor,['Gallagher (A) '],0,1
+43,AB43,Gloria (A) ,78,1,2,Floor,['Gloria (A) '],1,0
+44,AB44,Friedman (A) ,52,16,12,Floor,['Friedman (A) '],1,0
+45,AB45,"Mark Stone (A) , Jones-Sawyer (A) ",47,24,9,Floor,"['Mark Stone (A) ', ' Jones-Sawyer (A) ']",0,0
+47,AB47,Daly (A) ,75,1,5,Floor,['Daly (A) '],1,0
+48,AB48,O'Donnell (A) ,69,1,10,Floor,"[""O'Donnell (A) ""]",1,0
+49,AB49,"Cervantes (A) , Arambula (A) , Gipson (A) , Gloria (A) , Gonzalez (A) , Limón (A) ",76,1,4,Floor,"['Cervantes (A) ', ' Arambula (A) ', ' Gipson (A) ', ' Gloria (A) ', ' Gonzalez (A) ', ' Limón (A) ']",6,0
+50,AB50,Kalra (A) ,76,1,4,Floor,['Kalra (A) '],1,0
+51,AB51,Gonzalez (A) ,47,20,13,Floor,['Gonzalez (A) '],1,0
+56,AB56,Eduardo Garcia (A) ,41,21,18,Floor,['Eduardo Garcia (A) '],0,0
+58,AB58,Luz Rivas (A) ,72,1,8,Floor,['Luz Rivas (A) '],0,0
+59,AB59,Kalra (A) ,63,10,7,Floor,['Kalra (A) '],1,0
+61,AB61,"Ting (A) , Muratsuchi (A) , Reyes (A) ",54,17,9,Floor,"['Ting (A) ', ' Muratsuchi (A) ', ' Reyes (A) ']",3,0
+65,AB65,Petrie-Norris (A) ,77,1,3,Floor,['Petrie-Norris (A) '],1,0
+67,AB67,"Luz Rivas (A) , Chiu (A) ",70,4,6,Floor,"['Luz Rivas (A) ', ' Chiu (A) ']",0,0
+68,AB68,Ting (A) ,61,10,9,Floor,['Ting (A) '],1,0
+69,AB69,Ting (A) ,78,1,2,Floor,['Ting (A) '],1,0
+74,AB74,Ting (A) ,1,75,4,Floor,['Ting (A) '],1,0
+75,AB75,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+76,AB76,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+77,AB77,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+78,AB78,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+79,AB79,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+80,AB80,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+81,AB81,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+82,AB82,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+83,AB83,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+84,AB84,"Committee on Budget (A)  - (Assembly Members Ting (Chair), Arambula, Bloom, Chiu, Cooper, Frazier, Cristina Garcia, Jones-Sawyer, Limón, McCarty, Medina, Mullin, Muratsuchi, Nazarian, O’Donnell, Ramos, Reyes, Luz Rivas, Blanca Rubio, Mark Stone, Weber, Wicks, and Wood)",54,13,13,Floor,"['Committee on Budget (A)  - (Assembly Members Ting (Chair)', ' Arambula', ' Bloom', ' Chiu', ' Cooper', ' Frazier', ' Cristina\xa0Garcia', ' Jones-Sawyer', ' Limón', ' McCarty', ' Medina', ' Mullin', ' Muratsuchi', ' Nazarian', ' O’Donnell', ' Ramos', ' Reyes', ' Luz\xa0Rivas', ' Blanca\xa0Rubio', ' Mark\xa0Stone', ' Weber', ' Wicks', ' and Wood)']",0,0
+85,AB85,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+86,AB86,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+87,AB87,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+88,AB88,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+89,AB89,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+90,AB90,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+91,AB91,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+92,AB92,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+93,AB93,"Committee on Budget (A)  - (Assembly Members Ting (Chair), Arambula, Bloom, Chiu, Cooper, Frazier, Cristina Garcia, Jones-Sawyer, Limón, McCarty, Medina, Mullin, Muratsuchi, Nazarian, O’Donnell, Ramos, Reyes, Luz Rivas, Blanca Rubio, Mark  Stone, Weber, Wicks, and Wood)",54,13,13,Floor,"['Committee on Budget (A)  - (Assembly Members Ting (Chair)', ' Arambula', ' Bloom', ' Chiu', ' Cooper', ' Frazier', ' Cristina\xa0Garcia', ' Jones-Sawyer', ' Limón', ' McCarty', ' Medina', ' Mullin', ' Muratsuchi', ' Nazarian', ' O’Donnell', ' Ramos', ' Reyes', ' Luz\xa0Rivas', ' Blanca\xa0Rubio', ' Mark \xa0Stone', ' Weber', ' Wicks', ' and Wood)']",0,0
+94,AB94,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+95,AB95,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+96,AB96,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+97,AB97,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+98,AB98,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+99,AB99,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+100,AB100,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+101,AB101,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+102,AB102,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+103,AB103,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+104,AB104,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+105,AB105,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+106,AB106,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+107,AB107,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+108,AB108,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+109,AB109,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+110,AB110,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+111,AB111,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+112,AB112,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+113,AB113,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+114,AB114,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+115,AB115,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+116,AB116,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+117,AB117,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+118,AB118,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+119,AB119,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+120,AB120,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+121,AB121,Ting (A) ,54,13,13,Floor,['Ting (A) '],1,0
+123,AB123,"McCarty (A) , Berman (A) , Bonta (A) , Burke (A) , Carrillo (A) , Chiu (A) , Chu (A) , Friedman (A) , Eduardo Garcia (A) , Gonzalez (A) , Limón (A) , Reyes (A) , Robert Rivas (A) , Blanca Rubio (A) , Santiago (A) , Smith (A) , Ting (A) , Wicks (A) ",62,1,18,Floor,"['McCarty (A) ', ' Berman (A) ', ' Bonta (A) ', ' Burke (A) ', ' Carrillo (A) ', ' Chiu (A) ', ' Chu (A) ', ' Friedman (A) ', ' Eduardo Garcia (A) ', ' Gonzalez (A) ', ' Limón (A) ', ' Reyes (A) ', ' Robert Rivas (A) ', ' Blanca Rubio (A) ', ' Santiago (A) ', ' Smith (A) ', ' Ting (A) ', ' Wicks (A) ']",8,0
+125,AB125,"McCarty (A) , Berman (A) , Bonta (A) , Burke (A) , Carrillo (A) , Chiu (A) , Chu (A) , Friedman (A) , Eduardo Garcia (A) , Gonzalez (A) , Limón (A) , Mathis (A) , Reyes (A) , Robert Rivas (A) , Blanca Rubio (A) , Santiago (A) , Ting (A) , Wicks (A) ",78,1,2,Floor,"['McCarty (A) ', ' Berman (A) ', ' Bonta (A) ', ' Burke (A) ', ' Carrillo (A) ', ' Chiu (A) ', ' Chu (A) ', ' Friedman (A) ', ' Eduardo Garcia (A) ', ' Gonzalez (A) ', ' Limón (A) ', ' Mathis (A) ', ' Reyes (A) ', ' Robert Rivas (A) ', ' Blanca Rubio (A) ', ' Santiago (A) ', ' Ting (A) ', ' Wicks (A) ']",8,0
+126,AB126,Cooper (A) ,75,1,5,Floor,['Cooper (A) '],1,0
+128,AB128,Gloria (A) ,70,1,10,Floor,['Gloria (A) '],1,0
+130,AB130,"Low (A) , Eggman (A) ",76,1,3,Floor,"['Low (A) ', ' Eggman (A) ']",2,0
+133,AB133,"Quirk-Silva (A) , Patterson (A) ",77,1,3,Floor,"['Quirk-Silva (A) ', ' Patterson (A) ']",1,1
+134,AB134,Bloom (A) ,59,1,21,Floor,['Bloom (A) '],1,0
+135,AB135,"Cervantes (A) , Cooley (A) , Quirk-Silva (A) ",75,1,4,Floor,"['Cervantes (A) ', ' Cooley (A) ', ' Quirk-Silva (A) ']",3,0
+136,AB136,Quirk-Silva (A) ,76,1,4,Floor,['Quirk-Silva (A) '],1,0
+137,AB137,Cooper (A) ,63,3,14,Floor,['Cooper (A) '],1,0
+139,AB139,Quirk-Silva (A) ,77,1,3,Floor,['Quirk-Silva (A) '],1,0
+142,AB142,Cristina Garcia (A) ,54,17,9,Floor,['Cristina Garcia (A) '],0,0
+147,AB147,Burke (A) ,71,1,9,Floor,['Burke (A) '],1,0
+149,AB149,Cooper (A) ,76,1,4,Floor,['Cooper (A) '],1,0
+160,AB160,Voepel (A) ,75,1,5,Floor,['Voepel (A) '],0,1
+161,AB161,Ting (A) ,43,24,13,Floor,['Ting (A) '],1,0
+162,AB162,Kiley (A) ,37,16,27,Floor,['Kiley (A) '],0,1
+163,AB163,"Cristina Garcia (A) , Blanca Rubio (A) ",60,5,15,Floor,"['Cristina Garcia (A) ', ' Blanca Rubio (A) ']",0,0
+164,AB164,Cervantes (A) ,78,1,2,Floor,['Cervantes (A) '],1,0
+165,AB165,Gabriel (A) ,72,1,8,Floor,['Gabriel (A) '],1,0
+166,AB166,Gabriel (A) ,63,8,9,Floor,['Gabriel (A) '],1,0
+168,AB168,Aguiar-Curry (A) ,76,1,4,Floor,['Aguiar-Curry (A) '],1,0
+169,AB169,Lackey (A) ,72,1,8,Floor,['Lackey (A) '],0,1
+170,AB170,Gonzalez (A) ,49,17,14,Floor,['Gonzalez (A) '],1,0
+171,AB171,Gonzalez (A) ,57,5,18,Floor,['Gonzalez (A) '],1,0
+173,AB173,Chau (A) ,77,1,3,Floor,['Chau (A) '],1,0
+174,AB174,Wood (A) ,69,1,11,Floor,['Wood (A) '],1,0
+175,AB175,Gipson (A) ,59,8,13,Floor,['Gipson (A) '],1,0
+176,AB176,Cervantes (A) ,77,1,3,Floor,['Cervantes (A) '],1,0
+178,AB178,Dahle (A) ,72,1,8,Floor,['Dahle (A) '],0,1
+179,AB179,Reyes (A) ,73,1,7,Floor,['Reyes (A) '],1,0
+181,AB181,Rodriguez (A) ,74,1,6,Floor,['Rodriguez (A) '],1,0
+185,AB185,"Grayson (A) , Cervantes (A) ",76,1,4,Floor,"['Grayson (A) ', ' Cervantes (A) ']",2,0
+187,AB187,"Cristina Garcia (A) , Bigelow (A) ",75,1,5,Floor,"['Cristina Garcia (A) ', ' Bigelow (A) ']",0,0
+188,AB188,Daly (A) ,72,1,8,Floor,['Daly (A) '],1,0
+189,AB189,Kamlager-Dove (A) ,72,1,8,Floor,['Kamlager-Dove (A) '],0,0
+195,AB195,Patterson (A) ,77,1,3,Floor,['Patterson (A) '],0,1
+196,AB196,Gonzalez (A) ,66,7,7,Floor,['Gonzalez (A) '],1,0
+197,AB197,Weber (A) ,60,15,5,Floor,['Weber (A) '],1,0
+201,AB201,"Cervantes (A) , Mullin (A) ",77,1,3,Floor,"['Cervantes (A) ', ' Mullin (A) ']",2,0
+202,AB202,"Mathis (A) , Quirk (A) ",73,1,7,Floor,"['Mathis (A) ', ' Quirk (A) ']",1,1
+203,AB203,Salas (A) ,76,1,4,Floor,['Salas (A) '],1,0
+204,AB204,Wood (A) ,76,1,4,Floor,['Wood (A) '],1,0
+205,AB205,Daly (A) ,73,1,7,Floor,['Daly (A) '],1,0
+206,AB206,Chiu (A) ,71,1,9,Floor,['Chiu (A) '],1,0
+207,AB207,Daly (A) ,76,1,4,Floor,['Daly (A) '],1,0
+209,AB209,Limón (A) ,69,1,10,Floor,['Limón (A) '],1,0
+211,AB211,Calderon (A) ,78,1,2,Floor,['Calderon (A) '],1,0
+213,AB213,"Reyes (A) , Bauer-Kahan (A) , Gallagher (A) , Smith (A) ",77,1,3,Floor,"['Reyes (A) ', ' Bauer-Kahan (A) ', ' Gallagher (A) ', ' Smith (A) ']",3,1
+218,AB218,Gonzalez (A) ,64,3,13,Floor,['Gonzalez (A) '],1,0
+220,AB220,"Bonta (A) , Gonzalez (A) , Wicks (A) ",70,1,10,Floor,"['Bonta (A) ', ' Gonzalez (A) ', ' Wicks (A) ']",3,0
+228,AB228,Aguiar-Curry (A) ,77,1,3,Floor,['Aguiar-Curry (A) '],1,0
+230,AB230,Brough (A) ,75,1,5,Floor,['Brough (A) '],0,1
+232,AB232,Cervantes (A) ,78,1,2,Floor,['Cervantes (A) '],1,0
+233,AB233,"Cooley (A) , Daly (A) ",76,1,4,Floor,"['Cooley (A) ', ' Daly (A) ']",2,0
+235,AB235,Mayes (A) ,59,2,19,Floor,['Mayes (A) '],0,1
+236,AB236,"Eduardo Garcia (A) , O'Donnell (A) ",78,1,2,Floor,"['Eduardo Garcia (A) ', "" O'Donnell (A) ""]",0,0
+240,AB240,Irwin (A) ,76,1,4,Floor,['Irwin (A) '],1,0
+241,AB241,Kamlager-Dove (A) ,64,5,11,Floor,['Kamlager-Dove (A) '],0,0
+242,AB242,Kamlager-Dove (A) ,64,3,13,Floor,['Kamlager-Dove (A) '],0,0
+243,AB243,Kamlager-Dove (A) ,60,8,12,Floor,['Kamlager-Dove (A) '],0,0
+245,AB245,Muratsuchi (A) ,78,1,2,Floor,['Muratsuchi (A) '],1,0
+247,AB247,Dahle (A) ,78,1,2,Floor,['Dahle (A) '],0,1
+252,AB252,"Daly (A) , Frazier (A) ",78,1,2,Floor,"['Daly (A) ', ' Frazier (A) ']",2,0
+253,AB253,Mark Stone (A) ,76,1,4,Floor,['Mark Stone (A) '],0,0
+254,AB254,Quirk-Silva (A) ,74,1,6,Floor,['Quirk-Silva (A) '],1,0
+255,AB255,Limón (A) ,72,1,8,Floor,['Limón (A) '],1,0
+256,AB256,Aguiar-Curry (A) ,75,1,5,Floor,['Aguiar-Curry (A) '],1,0
+258,AB258,Jones-Sawyer (A) ,78,1,2,Floor,['Jones-Sawyer (A) '],1,0
+262,AB262,"Gloria (A) , Gonzalez (A) ",71,1,9,Floor,"['Gloria (A) ', ' Gonzalez (A) ']",2,0
+263,AB263,Burke (A) ,71,1,8,Floor,['Burke (A) '],1,0
+267,AB267,Chu (A) ,76,1,4,Floor,['Chu (A) '],1,0
+271,AB271,"Cooper (A) , Burke (A) ",68,1,12,Floor,"['Cooper (A) ', ' Burke (A) ']",2,0
+273,AB273,Gonzalez (A) ,51,19,10,Floor,['Gonzalez (A) '],1,0
+275,AB275,Ramos (A) ,78,1,2,Floor,['Ramos (A) '],1,0
+278,AB278,McCarty (A) ,76,1,4,Floor,['McCarty (A) '],1,0
+283,AB283,Chu (A) ,75,3,2,Floor,['Chu (A) '],1,0
+285,AB285,Friedman (A) ,59,18,3,Floor,['Friedman (A) '],1,0
+289,AB289,"Fong (A) , Gonzalez (A) ",78,1,2,Floor,"['Fong (A) ', ' Gonzalez (A) ']",1,1
+290,AB290,Wood (A) ,46,15,19,Floor,['Wood (A) '],1,0
+292,AB292,Quirk (A) ,76,1,4,Floor,['Quirk (A) '],1,0
+294,AB294,Rodriguez (A) ,78,1,2,Floor,['Rodriguez (A) '],1,0
+295,AB295,Daly (A) ,76,1,4,Floor,['Daly (A) '],1,0
+296,AB296,Cooley (A) ,75,1,4,Floor,['Cooley (A) '],1,0
+300,AB300,Chu (A) ,74,3,3,Floor,['Chu (A) '],1,0
+302,AB302,Berman (A) ,60,8,12,Floor,['Berman (A) '],1,0
+303,AB303,Cervantes (A) ,78,1,2,Floor,['Cervantes (A) '],1,0
+304,AB304,Jones-Sawyer (A) ,75,1,5,Floor,['Jones-Sawyer (A) '],1,0
+305,AB305,Nazarian (A) ,76,1,4,Floor,['Nazarian (A) '],1,0
+307,AB307,Reyes (A) ,74,1,6,Floor,['Reyes (A) '],1,0
+308,AB308,"Muratsuchi (A) , Smith (A) ",77,1,3,Floor,"['Muratsuchi (A) ', ' Smith (A) ']",2,0
+309,AB309,Maienschein (A) ,76,1,4,Floor,['Maienschein (A) '],1,0
+310,AB310,Santiago (A) ,72,1,8,Floor,['Santiago (A) '],1,0
+313,AB313,Frazier (A) ,78,1,2,Floor,['Frazier (A) '],1,0
+314,AB314,Bonta (A) ,58,16,6,Floor,['Bonta (A) '],1,0
+317,AB317,"Diep (A) , Fong (A) ",78,1,2,Floor,"['Diep (A) ', ' Fong (A) ']",0,2
+318,AB318,Chu (A) ,61,16,3,Floor,['Chu (A) '],1,0
+320,AB320,"Quirk (A) , Mathis (A) ",78,1,2,Floor,"['Quirk (A) ', ' Mathis (A) ']",1,1
+321,AB321,Patterson (A) ,72,1,7,Floor,['Patterson (A) '],0,1
+324,AB324,Aguiar-Curry (A) ,76,1,4,Floor,['Aguiar-Curry (A) '],1,0
+329,AB329,Rodriguez (A) ,72,1,8,Floor,['Rodriguez (A) '],1,0
+330,AB330,Gabriel (A) ,64,10,6,Floor,['Gabriel (A) '],1,0
+331,AB331,"Medina (A) , Bloom (A) , Bonta (A) , Gonzalez (A) , Ramos (A) , Weber (A) ",63,8,9,Floor,"['Medina (A) ', ' Bloom (A) ', ' Bonta (A) ', ' Gonzalez (A) ', ' Ramos (A) ', ' Weber (A) ']",6,0
+332,AB332,Lackey (A) ,76,1,4,Floor,['Lackey (A) '],0,1
+333,AB333,Eggman (A) ,78,1,2,Floor,['Eggman (A) '],1,0
+335,AB335,Eduardo Garcia (A) ,76,1,4,Floor,['Eduardo Garcia (A) '],0,0
+337,AB337,Quirk-Silva (A) ,78,1,2,Floor,['Quirk-Silva (A) '],1,0
+338,AB338,Chu (A) ,60,13,7,Floor,['Chu (A) '],1,0
+339,AB339,Irwin (A) ,68,1,11,Floor,['Irwin (A) '],1,0
+340,AB340,"Irwin (A) , Ting (A) ",66,1,13,Floor,"['Irwin (A) ', ' Ting (A) ']",2,0
+342,AB342,Muratsuchi (A) ,51,19,10,Floor,['Muratsuchi (A) '],1,0
+344,AB344,Calderon (A) ,67,1,12,Floor,['Calderon (A) '],1,0
+346,AB346,Cooper (A) ,75,1,5,Floor,['Cooper (A) '],1,0
+349,AB349,Choi (A) ,74,1,6,Floor,['Choi (A) '],0,1
+352,AB352,Eduardo Garcia (A) ,63,1,17,Floor,['Eduardo Garcia (A) '],0,0
+353,AB353,Muratsuchi (A) ,77,1,3,Floor,['Muratsuchi (A) '],1,0
+354,AB354,Quirk-Silva (A) ,63,11,6,Floor,['Quirk-Silva (A) '],1,0
+355,AB355,Daly (A) ,76,1,4,Floor,['Daly (A) '],1,0
+356,AB356,Santiago (A) ,60,7,13,Floor,['Santiago (A) '],1,0
+357,AB357,Nazarian (A) ,78,1,2,Floor,['Nazarian (A) '],1,0
+361,AB361,Voepel (A) ,76,1,4,Floor,['Voepel (A) '],0,1
+362,AB362,Eggman (A) ,44,26,10,Floor,['Eggman (A) '],1,0
+365,AB365,Cristina Garcia (A) ,78,1,2,Floor,['Cristina Garcia (A) '],0,0
+368,AB368,Quirk-Silva (A) ,76,1,4,Floor,['Quirk-Silva (A) '],1,0
+369,AB369,Weber (A) ,69,3,8,Floor,['Weber (A) '],1,0
+372,AB372,"Voepel (A) , Gonzalez (A) ",77,1,3,Floor,"['Voepel (A) ', ' Gonzalez (A) ']",1,1
+376,AB376,Mark Stone (A) ,59,15,6,Floor,['Mark Stone (A) '],0,0
+377,AB377,"Eduardo Garcia (A) , Mayes (A) ",74,1,6,Floor,"['Eduardo Garcia (A) ', ' Mayes (A) ']",0,0
+378,AB378,"Limón (A) , Gonzalez (A) ",60,17,3,Floor,"['Limón (A) ', ' Gonzalez (A) ']",2,0
+379,AB379,Maienschein (A) ,77,1,3,Floor,['Maienschein (A) '],1,0
+384,AB384,Chau (A) ,57,15,8,Floor,['Chau (A) '],1,0
+386,AB386,Eduardo Garcia (A) ,77,1,3,Floor,['Eduardo Garcia (A) '],0,0
+387,AB387,Gabriel (A) ,53,18,9,Floor,['Gabriel (A) '],1,0
+388,AB388,Limón (A) ,78,1,2,Floor,['Limón (A) '],1,0
+391,AB391,Voepel (A) ,73,1,6,Floor,['Voepel (A) '],0,1
+392,AB392,"Weber (A) , Atkins (S) , McCarty (A) , Rendon (A) ",68,1,12,Floor,"['Weber (A) ', ' Atkins (S) ', ' McCarty (A) ', ' Rendon (A) ']",1,0
+393,AB393,Nazarian (A) ,78,1,2,Floor,['Nazarian (A) '],1,0
+397,AB397,Chau (A) ,78,1,2,Floor,['Chau (A) '],1,0
+398,AB398,Chu (A) ,76,1,4,Floor,['Chu (A) '],1,0
+402,AB402,Quirk (A) ,65,1,15,Floor,['Quirk (A) '],1,0
+403,AB403,Kalra (A) ,42,27,11,Floor,['Kalra (A) '],1,0
+406,AB406,"Limón (A) , Gonzalez (A) ",77,1,3,Floor,"['Limón (A) ', ' Gonzalez (A) ']",2,0
+407,AB407,Santiago (A) ,74,2,4,Floor,['Santiago (A) '],1,0
+409,AB409,Limón (A) ,76,1,4,Floor,['Limón (A) '],1,0
+411,AB411,Mark Stone (A) ,72,1,8,Floor,['Mark Stone (A) '],0,0
+414,AB414,Bonta (A) ,55,18,7,Floor,['Bonta (A) '],1,0
+415,AB415,Maienschein (A) ,73,1,7,Floor,['Maienschein (A) '],1,0
+417,AB417,"Arambula (A) , Mathis (A) , Robert Rivas (A) ",73,1,7,Floor,"['Arambula (A) ', ' Mathis (A) ', ' Robert Rivas (A) ']",1,1
+418,AB418,Kalra (A) ,53,23,4,Floor,['Kalra (A) '],1,0
+419,AB419,Committee on Agriculture (A)  - (),78,1,2,Floor,['Committee on Agriculture (A)  - ()'],0,0
+422,AB422,Frazier (A) ,76,1,4,Floor,['Frazier (A) '],1,0
+423,AB423,Gloria (A) ,56,14,10,Floor,['Gloria (A) '],1,0
+424,AB424,Gabriel (A) ,72,1,8,Floor,['Gabriel (A) '],1,0
+425,AB425,Cooley (A) ,76,1,4,Floor,['Cooley (A) '],1,0
+426,AB426,Maienschein (A) ,71,1,9,Floor,['Maienschein (A) '],1,0
+428,AB428,"Medina (A) , Arambula (A) , Frazier (A) , O'Donnell (A) , Reyes (A) ",76,1,4,Floor,"['Medina (A) ', ' Arambula (A) ', ' Frazier (A) ', "" O'Donnell (A) "", ' Reyes (A) ']",5,0
+429,AB429,Nazarian (A) ,77,1,2,Floor,['Nazarian (A) '],1,0
+430,AB430,Gallagher (A) ,70,1,9,Floor,['Gallagher (A) '],0,1
+433,AB433,Ramos (A) ,73,1,6,Floor,['Ramos (A) '],1,0
+434,AB434,Daly (A) ,77,1,3,Floor,['Daly (A) '],1,0
+436,AB436,Aguiar-Curry (A) ,72,1,8,Floor,['Aguiar-Curry (A) '],1,0
+437,AB437,Wood (A) ,58,16,6,Floor,['Wood (A) '],1,0
+439,AB439,Mark Stone (A) ,76,1,4,Floor,['Mark Stone (A) '],0,0
+446,AB446,Choi (A) ,74,1,6,Floor,['Choi (A) '],0,1
+447,AB447,Patterson (A) ,76,1,4,Floor,['Patterson (A) '],0,1
+449,AB449,Gallagher (A) ,78,1,2,Floor,['Gallagher (A) '],0,1
+450,AB450,"Arambula (A) , Irwin (A) , Mathis (A) ",76,1,4,Floor,"['Arambula (A) ', ' Irwin (A) ', ' Mathis (A) ']",2,1
+451,AB451,"Arambula (A) , Santiago (A) ",78,1,2,Floor,"['Arambula (A) ', ' Santiago (A) ']",2,0
+452,AB452,"Mullin (A) , McCarty (A) ",74,1,6,Floor,"['Mullin (A) ', ' McCarty (A) ']",2,0
+454,AB454,Kalra (A) ,55,21,4,Floor,['Kalra (A) '],1,0
+456,AB456,"Chiu (A) , Bonta (A) , Low (A) ",76,1,4,Floor,"['Chiu (A) ', ' Bonta (A) ', ' Low (A) ']",3,0
+457,AB457,"Quirk (A) , Smith (A) ",59,9,12,Floor,"['Quirk (A) ', ' Smith (A) ']",2,0
+458,AB458,Nazarian (A) ,76,1,4,Floor,['Nazarian (A) '],1,0
+462,AB462,Rodriguez (A) ,75,1,5,Floor,['Rodriguez (A) '],1,0
+463,AB463,Cervantes (A) ,62,12,6,Floor,['Cervantes (A) '],1,0
+465,AB465,Eggman (A) ,76,1,4,Floor,['Eggman (A) '],1,0
+466,AB466,Committee on Agriculture (A)  - (),76,1,4,Floor,['Committee on Agriculture (A)  - ()'],0,0
+467,AB467,"Boerner Horvath (A) , Gonzalez (A) ",74,1,6,Floor,"['Boerner Horvath (A) ', ' Gonzalez (A) ']",0,0
+469,AB469,Petrie-Norris (A) ,75,1,5,Floor,['Petrie-Norris (A) '],1,0
+476,AB476,Blanca Rubio (A) ,66,10,4,Floor,['Blanca Rubio (A) '],0,0
+477,AB477,Cervantes (A) ,78,1,2,Floor,['Cervantes (A) '],1,0
+479,AB479,"Nazarian (A) , Kalra (A) ",63,12,5,Floor,"['Nazarian (A) ', ' Kalra (A) ']",2,0
+480,AB480,Salas (A) ,78,1,2,Floor,['Salas (A) '],1,0
+485,AB485,Medina (A) ,58,17,5,Floor,['Medina (A) '],1,0
+487,AB487,Gallagher (A) ,76,1,4,Floor,['Gallagher (A) '],0,1
+488,AB488,Aguiar-Curry (A) ,76,1,4,Floor,['Aguiar-Curry (A) '],1,0
+489,AB489,Mark Stone (A) ,78,1,2,Floor,['Mark Stone (A) '],0,0
+493,AB493,Gloria (A) ,61,1,19,Floor,['Gloria (A) '],1,0
+494,AB494,Berman (A) ,74,1,6,Floor,['Berman (A) '],1,0
+496,AB496,Low (A) ,74,1,6,Floor,['Low (A) '],1,0
+497,AB497,Santiago (A) ,66,1,14,Floor,['Santiago (A) '],1,0
+498,AB498,Weber (A) ,76,1,4,Floor,['Weber (A) '],1,0
+500,AB500,Gonzalez (A) ,68,3,9,Floor,['Gonzalez (A) '],1,0
+504,AB504,Berman (A) ,76,1,4,Floor,['Berman (A) '],1,0
+506,AB506,Kalra (A) ,64,2,14,Floor,['Kalra (A) '],1,0
+508,AB508,Chu (A) ,58,18,4,Floor,['Chu (A) '],1,0
+512,AB512,Ting (A) ,68,2,10,Floor,['Ting (A) '],1,0
+515,AB515,Mathis (A) ,76,1,4,Floor,['Mathis (A) '],0,1
+516,AB516,"Chiu (A) , Santiago (A) ",49,11,20,Floor,"['Chiu (A) ', ' Santiago (A) ']",2,0
+518,AB518,Committee on Accountability and Administrative Review (A)  - (),78,1,2,Floor,['Committee on Accountability and Administrative Review (A)  - ()'],0,0
+520,AB520,Kalra (A) ,56,12,12,Floor,['Kalra (A) '],1,0
+521,AB521,Berman (A) ,64,3,13,Floor,['Berman (A) '],1,0
+523,AB523,Irwin (A) ,61,10,9,Floor,['Irwin (A) '],1,0
+524,AB524,"Bigelow (A) , Berman (A) ",74,1,6,Floor,"['Bigelow (A) ', ' Berman (A) ']",1,1
+526,AB526,Petrie-Norris (A) ,78,1,2,Floor,['Petrie-Norris (A) '],1,0
+528,AB528,Low (A) ,77,1,3,Floor,['Low (A) '],1,0
+529,AB529,"Ramos (A) , Cervantes (A) ",67,7,6,Floor,"['Ramos (A) ', ' Cervantes (A) ']",2,0
+530,AB530,Aguiar-Curry (A) ,76,1,4,Floor,['Aguiar-Curry (A) '],1,0
+531,AB531,Friedman (A) ,77,1,3,Floor,['Friedman (A) '],1,0
+538,AB538,"Berman (A) , Low (A) ",77,1,3,Floor,"['Berman (A) ', ' Low (A) ']",2,0
+539,AB539,"Limón (A) , Gonzalez (A) , Grayson (A) ",60,4,16,Floor,"['Limón (A) ', ' Gonzalez (A) ', ' Grayson (A) ']",3,0
+540,AB540,Limón (A) ,59,17,4,Floor,['Limón (A) '],1,0
+545,AB545,Low (A) ,76,1,4,Floor,['Low (A) '],1,0
+546,AB546,Bigelow (A) ,72,1,8,Floor,['Bigelow (A) '],0,1
+547,AB547,Gonzalez (A) ,57,13,10,Floor,['Gonzalez (A) '],1,0
+548,AB548,Rodriguez (A) ,76,1,4,Floor,['Rodriguez (A) '],1,0
+550,AB550,"Flora (A) , Berman (A) ",78,1,2,Floor,"['Flora (A) ', ' Berman (A) ']",1,1
+551,AB551,Brough (A) ,76,1,4,Floor,['Brough (A) '],0,1
+552,AB552,Mark Stone (A) ,63,12,5,Floor,['Mark Stone (A) '],0,0
+556,AB556,Carrillo (A) ,69,2,9,Floor,['Carrillo (A) '],1,0
+558,AB558,Petrie-Norris (A) ,75,1,5,Floor,['Petrie-Norris (A) '],1,0
+560,AB560,Santiago (A) ,67,4,9,Floor,['Santiago (A) '],1,0
+567,AB567,Calderon (A) ,73,2,5,Floor,['Calderon (A) '],1,0
+570,AB570,Aguiar-Curry (A) ,52,20,8,Floor,['Aguiar-Curry (A) '],1,0
+571,AB571,Mullin (A) ,65,13,2,Floor,['Mullin (A) '],1,0
+572,AB572,Kalra (A) ,58,17,5,Floor,['Kalra (A) '],1,0
+577,AB577,Eggman (A) ,76,1,4,Floor,['Eggman (A) '],1,0
+581,AB581,Levine (A) ,77,1,3,Floor,['Levine (A) '],1,0
+585,AB585,Limón (A) ,44,18,18,Floor,['Limón (A) '],1,0
+588,AB588,Chen (A) ,72,1,8,Floor,['Chen (A) '],0,1
+589,AB589,Gonzalez (A) ,65,6,9,Floor,['Gonzalez (A) '],1,0
+590,AB590,"Mathis (A) , Eggman (A) ",74,1,6,Floor,"['Mathis (A) ', ' Eggman (A) ']",1,1
+591,AB591,Cristina Garcia (A) ,72,1,8,Floor,['Cristina Garcia (A) '],0,0
+593,AB593,Carrillo (A) ,76,1,4,Floor,['Carrillo (A) '],1,0
+594,AB594,Salas (A) ,78,1,2,Floor,['Salas (A) '],1,0
+596,AB596,Grayson (A) ,76,1,4,Floor,['Grayson (A) '],1,0
+598,AB598,Bloom (A) ,75,1,5,Floor,['Bloom (A) '],1,0
+600,AB600,Chu (A) ,67,1,12,Floor,['Chu (A) '],1,0
+602,AB602,Berman (A) ,76,1,4,Floor,['Berman (A) '],1,0
+607,AB607,Carrillo (A) ,53,22,5,Floor,['Carrillo (A) '],1,0
+608,AB608,Petrie-Norris (A) ,76,1,4,Floor,['Petrie-Norris (A) '],1,0
+609,AB609,Levine (A) ,72,1,8,Floor,['Levine (A) '],1,0
+610,AB610,Obernolte (A) ,66,2,12,Floor,['Obernolte (A) '],0,1
+612,AB612,Weber (A) ,76,1,4,Floor,['Weber (A) '],1,0
+613,AB613,Low (A) ,50,21,9,Floor,['Low (A) '],1,0
+614,AB614,Eggman (A) ,78,1,2,Floor,['Eggman (A) '],1,0
+618,AB618,Mark Stone (A) ,45,22,13,Floor,['Mark Stone (A) '],0,0
+620,AB620,Cooley (A) ,70,1,9,Floor,['Cooley (A) '],1,0
+623,AB623,Berman (A) ,76,1,4,Floor,['Berman (A) '],1,0
+624,AB624,Gabriel (A) ,58,14,8,Floor,['Gabriel (A) '],1,0
+625,AB625,Kalra (A) ,61,16,3,Floor,['Kalra (A) '],1,0
+627,AB627,Frazier (A) ,76,1,4,Floor,['Frazier (A) '],1,0
+628,AB628,Bonta (A) ,36,15,29,Floor,['Bonta (A) '],1,0
+629,AB629,"Smith (A) , Gonzalez (A) ",75,1,5,Floor,"['Smith (A) ', ' Gonzalez (A) ']",2,0
+630,AB630,"Arambula (A) , Low (A) ",76,1,4,Floor,"['Arambula (A) ', ' Low (A) ']",2,0
+631,AB631,"McCarty (A) , Cooley (A) ",76,1,4,Floor,"['McCarty (A) ', ' Cooley (A) ']",2,0
+632,AB632,Aguiar-Curry (A) ,76,1,4,Floor,['Aguiar-Curry (A) '],1,0
+634,AB634,Salas (A) ,72,1,8,Floor,['Salas (A) '],1,0
+635,AB635,Bigelow (A) ,78,1,2,Floor,['Bigelow (A) '],0,1
+638,AB638,Gray (A) ,78,1,2,Floor,['Gray (A) '],1,0
+639,AB639,Cervantes (A) ,78,1,2,Floor,['Cervantes (A) '],1,0
+640,AB640,Frazier (A) ,75,1,5,Floor,['Frazier (A) '],1,0
+642,AB642,Limón (A) ,54,16,10,Floor,['Limón (A) '],1,0
+644,AB644,"Committee on Public Employment and Retirement (A)  - (Assembly Members Rodriguez (Chair), Cooley, Cooper, and O’Donnell)",76,1,4,Floor,"['Committee on Public Employment and Retirement (A)  - (Assembly Members Rodriguez (Chair)', ' Cooley', ' Cooper', ' and O’Donnell)']",0,0
+645,AB645,Irwin (A) ,62,2,16,Floor,['Irwin (A) '],1,0
+647,AB647,Kalra (A) ,59,1,20,Floor,['Kalra (A) '],1,0
+649,AB649,Cristina Garcia (A) ,76,1,4,Floor,['Cristina Garcia (A) '],0,0
+651,AB651,Grayson (A) ,78,1,2,Floor,['Grayson (A) '],1,0
+653,AB653,Bloom (A) ,76,1,4,Floor,['Bloom (A) '],1,0
+656,AB656,Eduardo Garcia (A) ,60,13,7,Floor,['Eduardo Garcia (A) '],0,0
+657,AB657,Eggman (A) ,78,1,2,Floor,['Eggman (A) '],1,0
+658,AB658,"Arambula (A) , Eduardo Garcia (A) ",67,1,13,Floor,"['Arambula (A) ', ' Eduardo Garcia (A) ']",1,0
+660,AB660,Levine (A) ,61,13,6,Floor,['Levine (A) '],1,0
+661,AB661,McCarty (A) ,76,1,4,Floor,['McCarty (A) '],1,0
+662,AB662,Cunningham (A) ,76,1,4,Floor,['Cunningham (A) '],0,1
+663,AB663,Cunningham (A) ,71,4,5,Floor,['Cunningham (A) '],0,1
+664,AB664,Cooper (A) ,76,1,4,Floor,['Cooper (A) '],1,0
+668,AB668,"Gonzalez (A) , Bonta (A) ",58,15,7,Floor,"['Gonzalez (A) ', ' Bonta (A) ']",2,0
+671,AB671,Friedman (A) ,76,1,4,Floor,['Friedman (A) '],1,0
+672,AB672,Cervantes (A) ,76,1,4,Floor,['Cervantes (A) '],1,0
+673,AB673,Carrillo (A) ,51,19,10,Floor,['Carrillo (A) '],1,0
+677,AB677,Choi (A) ,78,1,2,Floor,['Choi (A) '],0,1
+678,AB678,Flora (A) ,78,1,2,Floor,['Flora (A) '],0,1
+680,AB680,Chu (A) ,76,1,4,Floor,['Chu (A) '],1,0
+681,AB681,Gonzalez (A) ,60,16,4,Floor,['Gonzalez (A) '],1,0
+684,AB684,Levine (A) ,77,1,3,Floor,['Levine (A) '],1,0
+685,AB685,"Reyes (A) , Ramos (A) ",78,1,2,Floor,"['Reyes (A) ', ' Ramos (A) ']",2,0
+686,AB686,"Waldron (A) , Ramos (A) ",76,1,4,Floor,"['Waldron (A) ', ' Ramos (A) ']",1,1
+689,AB689,McCarty (A) ,65,1,15,Floor,['McCarty (A) '],1,0
+690,AB690,Aguiar-Curry (A) ,76,1,4,Floor,['Aguiar-Curry (A) '],1,0
+693,AB693,Berman (A) ,59,16,5,Floor,['Berman (A) '],1,0
+694,AB694,Irwin (A) ,68,1,12,Floor,['Irwin (A) '],1,0
+697,AB697,"Ting (A) , McCarty (A) ",57,1,23,Floor,"['Ting (A) ', ' McCarty (A) ']",2,0
+701,AB701,Weber (A) ,78,1,2,Floor,['Weber (A) '],1,0
+703,AB703,Weber (A) ,76,1,4,Floor,['Weber (A) '],1,0
+707,AB707,Kalra (A) ,73,1,7,Floor,['Kalra (A) '],1,0
+708,AB708,Frazier (A) ,78,1,2,Floor,['Frazier (A) '],1,0
+709,AB709,Bonta (A) ,76,1,4,Floor,['Bonta (A) '],1,0
+710,AB710,Cervantes (A) ,76,1,4,Floor,['Cervantes (A) '],1,0
+711,AB711,Chiu (A) ,61,1,19,Floor,['Chiu (A) '],1,0
+713,AB713,Mullin (A) ,74,1,6,Floor,['Mullin (A) '],1,0
+714,AB714,Wood (A) ,76,1,4,Floor,['Wood (A) '],1,0
+715,AB715,"Arambula (A) , Wood (A) ",77,1,3,Floor,"['Arambula (A) ', ' Wood (A) ']",2,0
+716,AB716,Chen (A) ,74,1,6,Floor,['Chen (A) '],0,1
+718,AB718,Eggman (A) ,78,1,2,Floor,['Eggman (A) '],1,0
+719,AB719,Diep (A) ,78,1,2,Floor,['Diep (A) '],0,1
+720,AB720,"Muratsuchi (A) , Smith (A) ",77,1,3,Floor,"['Muratsuchi (A) ', ' Smith (A) ']",2,0
+722,AB722,Bigelow (A) ,77,1,2,Floor,['Bigelow (A) '],0,1
+723,AB723,"Wicks (A) , Bonta (A) ",77,1,3,Floor,"['Wicks (A) ', ' Bonta (A) ']",2,0
+727,AB727,Flora (A) ,76,1,4,Floor,['Flora (A) '],0,1
+728,AB728,Santiago (A) ,74,1,6,Floor,['Santiago (A) '],1,0
+729,AB729,Chu (A) ,58,17,5,Floor,['Chu (A) '],1,0
+730,AB730,Berman (A) ,76,1,4,Floor,['Berman (A) '],1,0
+731,AB731,Kalra (A) ,52,20,8,Floor,['Kalra (A) '],1,0
+733,AB733,Quirk (A) ,76,1,4,Floor,['Quirk (A) '],1,0
+734,AB734,Maienschein (A) ,77,1,3,Floor,['Maienschein (A) '],1,0
+736,AB736,Irwin (A) ,76,1,4,Floor,['Irwin (A) '],1,0
+737,AB737,Eggman (A) ,76,1,4,Floor,['Eggman (A) '],1,0
+740,AB740,Burke (A) ,73,1,7,Floor,['Burke (A) '],1,0
+744,AB744,Aguiar-Curry (A) ,75,1,5,Floor,['Aguiar-Curry (A) '],1,0
+746,AB746,Wood (A) ,77,1,3,Floor,['Wood (A) '],1,0
+748,AB748,Gipson (A) ,78,1,2,Floor,['Gipson (A) '],1,0
+749,AB749,"Mark Stone (A) , Gonzalez (A) , Reyes (A) ",41,19,20,Floor,"['Mark Stone (A) ', ' Gonzalez (A) ', ' Reyes (A) ']",0,0
+751,AB751,O'Donnell (A) ,75,1,5,Floor,"[""O'Donnell (A) ""]",1,0
+752,AB752,"Gabriel (A) , Boerner Horvath (A) ",73,1,7,Floor,"['Gabriel (A) ', ' Boerner Horvath (A) ']",1,0
+753,AB753,Eduardo Garcia (A) ,56,4,20,Floor,['Eduardo Garcia (A) '],0,0
+754,AB754,Grayson (A) ,76,1,4,Floor,['Grayson (A) '],1,0
+756,AB756,Cristina Garcia (A) ,64,1,16,Floor,['Cristina Garcia (A) '],0,0
+759,AB759,Bigelow (A) ,76,1,4,Floor,['Bigelow (A) '],0,1
+761,AB761,Nazarian (A) ,76,1,4,Floor,['Nazarian (A) '],1,0
+763,AB763,Gray (A) ,78,1,2,Floor,['Gray (A) '],1,0
+767,AB767,Wicks (A) ,59,10,11,Floor,['Wicks (A) '],1,0
+769,AB769,Smith (A) ,75,1,5,Floor,['Smith (A) '],1,0
+773,AB773,Gonzalez (A) ,60,12,8,Floor,['Gonzalez (A) '],1,0
+774,AB774,Reyes (A) ,70,1,10,Floor,['Reyes (A) '],1,0
+775,AB775,Chau (A) ,73,1,7,Floor,['Chau (A) '],1,0
+776,AB776,Kalra (A) ,77,1,3,Floor,['Kalra (A) '],1,0
+778,AB778,Low (A) ,76,1,4,Floor,['Low (A) '],1,0
+779,AB779,Low (A) ,74,1,6,Floor,['Low (A) '],1,0
+783,AB783,Bigelow (A) ,77,1,2,Floor,['Bigelow (A) '],0,1
+784,AB784,Mullin (A) ,77,1,2,Floor,['Mullin (A) '],1,0
+785,AB785,Bloom (A) ,76,1,4,Floor,['Bloom (A) '],1,0
+787,AB787,Gipson (A) ,52,23,5,Floor,['Gipson (A) '],1,0
+792,AB792,"Ting (A) , Irwin (A) ",50,15,15,Floor,"['Ting (A) ', ' Irwin (A) ']",2,0
+793,AB793,Ting (A) ,77,1,3,Floor,['Ting (A) '],1,0
+795,AB795,Irwin (A) ,78,1,2,Floor,['Irwin (A) '],1,0
+798,AB798,Cervantes (A) ,78,1,2,Floor,['Cervantes (A) '],1,0
+800,AB800,Chu (A) ,77,1,3,Floor,['Chu (A) '],1,0
+802,AB802,Mark Stone (A) ,76,1,4,Floor,['Mark Stone (A) '],0,0
+803,AB803,Gipson (A) ,78,1,2,Floor,['Gipson (A) '],1,0
+805,AB805,Obernolte (A) ,76,1,4,Floor,['Obernolte (A) '],0,1
+806,AB806,Bloom (A) ,76,1,4,Floor,['Bloom (A) '],1,0
+807,AB807,Bauer-Kahan (A) ,69,2,9,Floor,['Bauer-Kahan (A) '],1,0
+809,AB809,Santiago (A) ,76,1,4,Floor,['Santiago (A) '],1,0
+815,AB815,Aguiar-Curry (A) ,76,1,4,Floor,['Aguiar-Curry (A) '],1,0
+819,AB819,Mark Stone (A) ,76,1,4,Floor,['Mark Stone (A) '],0,0
+824,AB824,Wood (A) ,56,1,24,Floor,['Wood (A) '],1,0
+825,AB825,Mullin (A) ,77,1,3,Floor,['Mullin (A) '],1,0
+826,AB826,Reyes (A) ,78,1,2,Floor,['Reyes (A) '],1,0
+828,AB828,Ting (A) ,75,1,5,Floor,['Ting (A) '],1,0
+829,AB829,"Bloom (A) , Gipson (A) ",77,1,3,Floor,"['Bloom (A) ', ' Gipson (A) ']",2,0
+831,AB831,Grayson (A) ,73,1,7,Floor,['Grayson (A) '],1,0
+833,AB833,Lackey (A) ,78,1,2,Floor,['Lackey (A) '],0,1
+834,AB834,Quirk (A) ,71,1,9,Floor,['Quirk (A) '],1,0
+836,AB836,Wicks (A) ,78,1,2,Floor,['Wicks (A) '],1,0
+839,AB839,Mullin (A) ,65,8,7,Floor,['Mullin (A) '],1,0
+840,AB840,Dahle (A) ,74,1,6,Floor,['Dahle (A) '],0,1
+841,AB841,Ting (A) ,76,1,4,Floor,['Ting (A) '],1,0
+842,AB842,"Limón (A) , Eggman (A) ",77,1,3,Floor,"['Limón (A) ', ' Eggman (A) ']",2,0
+843,AB843,Rodriguez (A) ,78,1,2,Floor,['Rodriguez (A) '],1,0
+846,AB846,"Burke (A) , Low (A) , Mullin (A) ",69,4,7,Floor,"['Burke (A) ', ' Low (A) ', ' Mullin (A) ']",3,0
+848,AB848,Gray (A) ,78,1,2,Floor,['Gray (A) '],1,0
+849,AB849,Bonta (A) ,55,20,5,Floor,['Bonta (A) '],1,0
+852,AB852,"Burke (A) , Weber (A) ",78,1,2,Floor,"['Burke (A) ', ' Weber (A) ']",2,0
+857,AB857,"Chiu (A) , Santiago (A) ",41,29,10,Floor,"['Chiu (A) ', ' Santiago (A) ']",2,0
+858,AB858,Levine (A) ,76,1,4,Floor,['Levine (A) '],1,0
+859,AB859,Maienschein (A) ,77,1,3,Floor,['Maienschein (A) '],1,0
+860,AB860,Berman (A) ,76,1,4,Floor,['Berman (A) '],1,0
+861,AB861,Chen (A) ,77,1,2,Floor,['Chen (A) '],0,1
+864,AB864,Mullin (A) ,76,1,4,Floor,['Mullin (A) '],1,0
+865,AB865,Reyes (A) ,77,1,3,Floor,['Reyes (A) '],1,0
+869,AB869,Cunningham (A) ,76,1,4,Floor,['Cunningham (A) '],0,1
+872,AB872,Aguiar-Curry (A) ,77,1,3,Floor,['Aguiar-Curry (A) '],1,0
+873,AB873,Irwin (A) ,73,1,7,Floor,['Irwin (A) '],1,0
+874,AB874,Irwin (A) ,76,1,4,Floor,['Irwin (A) '],1,0
+875,AB875,Wicks (A) ,78,1,2,Floor,['Wicks (A) '],1,0
+879,AB879,Gipson (A) ,45,21,14,Floor,['Gipson (A) '],1,0
+880,AB880,Obernolte (A) ,73,1,7,Floor,['Obernolte (A) '],0,1
+881,AB881,Bloom (A) ,71,2,7,Floor,['Bloom (A) '],1,0
+885,AB885,Irwin (A) ,77,1,3,Floor,['Irwin (A) '],1,0
+888,AB888,Low (A) ,68,1,12,Floor,['Low (A) '],1,0
+891,AB891,Burke (A) ,55,17,8,Floor,['Burke (A) '],1,0
+892,AB892,Holden (A) ,74,1,6,Floor,['Holden (A) '],1,0
+893,AB893,Gloria (A) ,52,22,6,Floor,['Gloria (A) '],1,0
+894,AB894,Santiago (A) ,59,18,3,Floor,['Santiago (A) '],1,0
+896,AB896,Low (A) ,76,1,4,Floor,['Low (A) '],1,0
+898,AB898,Wicks (A) ,78,1,2,Floor,['Wicks (A) '],1,0
+899,AB899,Wood (A) ,75,1,5,Floor,['Wood (A) '],1,0
+901,AB901,Gipson (A) ,42,27,11,Floor,['Gipson (A) '],1,0
+907,AB907,Grayson (A) ,74,1,6,Floor,['Grayson (A) '],1,0
+911,AB911,Rodriguez (A) ,76,1,4,Floor,['Rodriguez (A) '],1,0
+912,AB912,Muratsuchi (A) ,75,1,5,Floor,['Muratsuchi (A) '],1,0
+914,AB914,Holden (A) ,75,1,5,Floor,['Holden (A) '],1,0
+916,AB916,Muratsuchi (A) ,76,1,4,Floor,['Muratsuchi (A) '],1,0
+917,AB917,Reyes (A) ,71,1,9,Floor,['Reyes (A) '],1,0
+919,AB919,Petrie-Norris (A) ,78,1,2,Floor,['Petrie-Norris (A) '],1,0
+920,AB920,Petrie-Norris (A) ,67,1,12,Floor,['Petrie-Norris (A) '],1,0
+922,AB922,Burke (A) ,68,1,12,Floor,['Burke (A) '],1,0
+923,AB923,Wicks (A) ,77,1,3,Floor,['Wicks (A) '],1,0
+925,AB925,Gloria (A) ,76,1,4,Floor,['Gloria (A) '],1,0
+926,AB926,O'Donnell (A) ,78,1,2,Floor,"[""O'Donnell (A) ""]",1,0
+927,AB927,Jones-Sawyer (A) ,62,2,16,Floor,['Jones-Sawyer (A) '],1,0
+929,AB929,Luz Rivas (A) ,77,1,3,Floor,['Luz Rivas (A) '],0,0
+930,AB930,Gloria (A) ,76,1,4,Floor,['Gloria (A) '],1,0
+931,AB931,Boerner Horvath (A) ,58,11,11,Floor,['Boerner Horvath (A) '],0,0
+932,AB932,Low (A) ,75,1,5,Floor,['Low (A) '],1,0
+933,AB933,Petrie-Norris (A) ,75,1,5,Floor,['Petrie-Norris (A) '],1,0
+936,AB936,Robert Rivas (A) ,45,19,16,Floor,['Robert Rivas (A) '],0,0
+942,AB942,Weber (A) ,72,1,8,Floor,['Weber (A) '],1,0
+943,AB943,Chiu (A) ,75,1,5,Floor,['Chiu (A) '],1,0
+944,AB944,Quirk (A) ,66,1,14,Floor,['Quirk (A) '],1,0
+945,AB945,McCarty (A) ,75,1,5,Floor,['McCarty (A) '],1,0
+948,AB948,Kalra (A) ,77,1,3,Floor,['Kalra (A) '],1,0
+949,AB949,Medina (A) ,74,1,6,Floor,['Medina (A) '],1,0
+954,AB954,Wood (A) ,74,1,6,Floor,['Wood (A) '],1,0
+955,AB955,Gipson (A) ,77,1,3,Floor,['Gipson (A) '],1,0
+957,AB957,Committee on Housing and Community Development (A)  - (),74,1,6,Floor,['Committee on Housing and Community Development (A)  - ()'],0,0
+960,AB960,Maienschein (A) ,73,1,7,Floor,['Maienschein (A) '],1,0
+962,AB962,Burke (A) ,55,16,9,Floor,['Burke (A) '],1,0
+963,AB963,Petrie-Norris (A) ,63,7,10,Floor,['Petrie-Norris (A) '],1,0
+965,AB965,Mark Stone (A) ,44,23,13,Floor,['Mark Stone (A) '],0,0
+967,AB967,Smith (A) ,56,18,6,Floor,['Smith (A) '],1,0
+970,AB970,Salas (A) ,76,1,4,Floor,['Salas (A) '],1,0
+971,AB971,Salas (A) ,75,1,5,Floor,['Salas (A) '],1,0
+975,AB975,Calderon (A) ,66,2,12,Floor,['Calderon (A) '],1,0
+976,AB976,"Chau (A) , Kiley (A) , Obernolte (A) ",78,1,2,Floor,"['Chau (A) ', ' Kiley (A) ', ' Obernolte (A) ']",1,2
+981,AB981,Daly (A) ,77,1,3,Floor,['Daly (A) '],1,0
+984,AB984,Lackey (A) ,76,1,4,Floor,['Lackey (A) '],0,1
+987,AB987,Robert Rivas (A) ,75,1,5,Floor,['Robert Rivas (A) '],0,0
+991,AB991,Gallagher (A) ,74,1,6,Floor,['Gallagher (A) '],0,1
+995,AB995,Ting (A) ,77,1,3,Floor,['Ting (A) '],1,0
+998,AB998,Aguiar-Curry (A) ,75,1,5,Floor,['Aguiar-Curry (A) '],1,0
+1001,AB1001,Ting (A) ,78,1,2,Floor,['Ting (A) '],1,0
+1002,AB1002,Rodriguez (A) ,68,1,12,Floor,['Rodriguez (A) '],1,0
+1004,AB1004,McCarty (A) ,78,1,2,Floor,['McCarty (A) '],1,0
+1007,AB1007,Jones-Sawyer (A) ,54,18,8,Floor,['Jones-Sawyer (A) '],1,0
+1009,AB1009,Gabriel (A) ,76,1,4,Floor,['Gabriel (A) '],1,0
+1010,AB1010,Eduardo Garcia (A) ,75,1,5,Floor,['Eduardo Garcia (A) '],0,0
+1011,AB1011,Petrie-Norris (A) ,72,1,8,Floor,['Petrie-Norris (A) '],1,0
+1013,AB1013,Obernolte (A) ,78,1,2,Floor,['Obernolte (A) '],0,1
+1014,AB1014,"O'Donnell (A) , Brough (A) , Wicks (A) ",58,1,21,Floor,"[""O'Donnell (A) "", ' Brough (A) ', ' Wicks (A) ']",2,1
+1017,AB1017,Boerner Horvath (A) ,76,1,4,Floor,['Boerner Horvath (A) '],0,0
+1018,AB1018,Frazier (A) ,73,1,7,Floor,['Frazier (A) '],1,0
+1019,AB1019,Frazier (A) ,78,1,2,Floor,['Frazier (A) '],1,0
+1022,AB1022,Wicks (A) ,65,2,13,Floor,['Wicks (A) '],1,0
+1025,AB1025,Grayson (A) ,78,1,2,Floor,['Grayson (A) '],1,0
+1026,AB1026,Wood (A) ,74,1,6,Floor,['Wood (A) '],1,0
+1027,AB1027,Burke (A) ,67,1,13,Floor,['Burke (A) '],1,0
+1028,AB1028,Gonzalez (A) ,76,1,4,Floor,['Gonzalez (A) '],1,0
+1030,AB1030,"Calderon (A) , Petrie-Norris (A) ",73,1,7,Floor,"['Calderon (A) ', ' Petrie-Norris (A) ']",2,0
+1031,AB1031,Nazarian (A) ,74,1,6,Floor,['Nazarian (A) '],1,0
+1033,AB1033,Cooper (A) ,74,1,6,Floor,['Cooper (A) '],1,0
+1035,AB1035,Mayes (A) ,77,1,3,Floor,['Mayes (A) '],0,1
+1036,AB1036,Aguiar-Curry (A) ,59,16,5,Floor,['Aguiar-Curry (A) '],1,0
+1037,AB1037,Gipson (A) ,76,1,4,Floor,['Gipson (A) '],1,0
+1042,AB1042,Wood (A) ,78,1,2,Floor,['Wood (A) '],1,0
+1043,AB1043,Irwin (A) ,76,1,4,Floor,['Irwin (A) '],1,0
+1046,AB1046,Ting (A) ,55,21,4,Floor,['Ting (A) '],1,0
+1051,AB1051,Smith (A) ,78,1,2,Floor,['Smith (A) '],1,0
+1052,AB1052,Chu (A) ,78,1,2,Floor,['Chu (A) '],1,0
+1053,AB1053,Dahle (A) ,76,1,4,Floor,['Dahle (A) '],0,1
+1054,AB1054,Holden (A) ,77,1,3,Floor,['Holden (A) '],1,0
+1057,AB1057,Limón (A) ,43,19,18,Floor,['Limón (A) '],1,0
+1058,AB1058,Salas (A) ,78,1,2,Floor,['Salas (A) '],1,0
+1061,AB1061,Gipson (A) ,78,1,2,Floor,['Gipson (A) '],1,0
+1065,AB1065,Berman (A) ,72,1,8,Floor,['Berman (A) '],1,0
+1066,AB1066,Gonzalez (A) ,51,19,10,Floor,['Gonzalez (A) '],1,0
+1068,AB1068,Cooley (A) ,74,1,6,Floor,['Cooley (A) '],1,0
+1072,AB1072,Patterson (A) ,74,1,6,Floor,['Patterson (A) '],0,1
+1073,AB1073,Blanca Rubio (A) ,64,1,16,Floor,['Blanca Rubio (A) '],0,0
+1075,AB1075,Holden (A) ,75,1,5,Floor,['Holden (A) '],1,0
+1076,AB1076,Ting (A) ,52,21,7,Floor,['Ting (A) '],1,0
+1080,AB1080,"Gonzalez (A) , Calderon (A) , Friedman (A) , Ting (A) ",44,19,17,Floor,"['Gonzalez (A) ', ' Calderon (A) ', ' Friedman (A) ', ' Ting (A) ']",4,0
+1082,AB1082,Low (A) ,76,1,4,Floor,['Low (A) '],1,0
+1083,AB1083,Burke (A) ,74,1,6,Floor,['Burke (A) '],1,0
+1085,AB1085,McCarty (A) ,78,1,2,Floor,['McCarty (A) '],1,0
+1086,AB1086,Bauer-Kahan (A) ,53,18,9,Floor,['Bauer-Kahan (A) '],1,0
+1088,AB1088,Wood (A) ,78,1,2,Floor,['Wood (A) '],1,0
+1089,AB1089,Mark Stone (A) ,77,1,3,Floor,['Mark Stone (A) '],0,0
+1092,AB1092,Jones-Sawyer (A) ,42,28,10,Floor,['Jones-Sawyer (A) '],1,0
+1093,AB1093,Blanca Rubio (A) ,77,1,3,Floor,['Blanca Rubio (A) '],0,0
+1095,AB1095,Eduardo Garcia (A) ,76,1,4,Floor,['Eduardo Garcia (A) '],0,0
+1097,AB1097,Holden (A) ,75,1,5,Floor,['Holden (A) '],1,0
+1098,AB1098,"O'Donnell (A) , Wood (A) ",77,1,3,Floor,"[""O'Donnell (A) "", ' Wood (A) ']",2,0
+1099,AB1099,Calderon (A) ,76,1,4,Floor,['Calderon (A) '],1,0
+1100,AB1100,Kamlager-Dove (A) ,75,1,5,Floor,['Kamlager-Dove (A) '],0,0
+1104,AB1104,Calderon (A) ,77,1,3,Floor,['Calderon (A) '],1,0
+1107,AB1107,Chu (A) ,62,1,18,Floor,['Chu (A) '],1,0
+1110,AB1110,Friedman (A) ,58,19,3,Floor,['Friedman (A) '],1,0
+1111,AB1111,Friedman (A) ,72,3,5,Floor,['Friedman (A) '],1,0
+1112,AB1112,Friedman (A) ,73,1,6,Floor,['Friedman (A) '],1,0
+1116,AB1116,Grayson (A) ,78,1,2,Floor,['Grayson (A) '],1,0
+1117,AB1117,Grayson (A) ,78,1,2,Floor,['Grayson (A) '],1,0
+1118,AB1118,Blanca Rubio (A) ,60,14,6,Floor,['Blanca Rubio (A) '],0,0
+1122,AB1122,Irwin (A) ,74,1,6,Floor,['Irwin (A) '],1,0
+1123,AB1123,Reyes (A) ,58,19,3,Floor,['Reyes (A) '],1,0
+1124,AB1124,Maienschein (A) ,66,1,14,Floor,['Maienschein (A) '],1,0
+1125,AB1125,Cooley (A) ,70,1,9,Floor,['Cooley (A) '],1,0
+1128,AB1128,Petrie-Norris (A) ,74,1,6,Floor,['Petrie-Norris (A) '],1,0
+1130,AB1130,Levine (A) ,46,19,15,Floor,['Levine (A) '],1,0
+1131,AB1131,Gloria (A) ,75,1,5,Floor,['Gloria (A) '],1,0
+1132,AB1132,Gabriel (A) ,76,1,4,Floor,['Gabriel (A) '],1,0
+1133,AB1133,Low (A) ,72,2,6,Floor,['Low (A) '],1,0
+1137,AB1137,Nazarian (A) ,78,1,2,Floor,['Nazarian (A) '],1,0
+1138,AB1138,Gallagher (A) ,56,6,18,Floor,['Gallagher (A) '],0,1
+1142,AB1142,Friedman (A) ,78,1,2,Floor,['Friedman (A) '],1,0
+1144,AB1144,Friedman (A) ,74,1,6,Floor,['Friedman (A) '],1,0
+1146,AB1146,Berman (A) ,77,1,3,Floor,['Berman (A) '],1,0
+1152,AB1152,Holden (A) ,76,1,4,Floor,['Holden (A) '],1,0
+1153,AB1153,Wicks (A) ,78,1,2,Floor,['Wicks (A) '],1,0
+1158,AB1158,Carrillo (A) ,77,1,3,Floor,['Carrillo (A) '],1,0
+1160,AB1160,Dahle (A) ,77,1,3,Floor,['Dahle (A) '],0,1
+1161,AB1161,Calderon (A) ,74,1,6,Floor,['Calderon (A) '],1,0
+1162,AB1162,Kalra (A) ,50,24,6,Floor,['Kalra (A) '],1,0
+1164,AB1164,Gloria (A) ,74,1,6,Floor,['Gloria (A) '],1,0
+1165,AB1165,Bauer-Kahan (A) ,77,1,3,Floor,['Bauer-Kahan (A) '],1,0
+1166,AB1166,Levine (A) ,74,1,6,Floor,['Levine (A) '],1,0
+1168,AB1168,Mullin (A) ,74,1,6,Floor,['Mullin (A) '],1,0
+1172,AB1172,Frazier (A) ,78,1,2,Floor,['Frazier (A) '],1,0
+1175,AB1175,Wood (A) ,75,1,5,Floor,['Wood (A) '],1,0
+1178,AB1178,Quirk (A) ,74,1,5,Floor,['Quirk (A) '],1,0
+1181,AB1181,Limón (A) ,69,1,10,Floor,['Limón (A) '],1,0
+1183,AB1183,"Ramos (A) , Obernolte (A) ",77,1,3,Floor,"['Ramos (A) ', ' Obernolte (A) ']",1,1
+1184,AB1184,Gloria (A) ,59,8,13,Floor,['Gloria (A) '],1,0
+1185,AB1185,McCarty (A) ,43,23,14,Floor,['McCarty (A) '],1,0
+1188,AB1188,Gabriel (A) ,76,1,4,Floor,['Gabriel (A) '],1,0
+1190,AB1190,Irwin (A) ,77,1,3,Floor,['Irwin (A) '],1,0
+1191,AB1191,Bonta (A) ,69,1,10,Floor,['Bonta (A) '],1,0
+1195,AB1195,O'Donnell (A) ,62,5,13,Floor,"[""O'Donnell (A) ""]",1,0
+1197,AB1197,Santiago (A) ,72,1,8,Floor,['Santiago (A) '],1,0
+1199,AB1199,Petrie-Norris (A) ,74,1,6,Floor,['Petrie-Norris (A) '],1,0
+1202,AB1202,Chau (A) ,56,13,11,Floor,['Chau (A) '],1,0
+1208,AB1208,Ting (A) ,76,1,4,Floor,['Ting (A) '],1,0
+1209,AB1209,Nazarian (A) ,74,1,6,Floor,['Nazarian (A) '],1,0
+1212,AB1212,Levine (A) ,58,15,7,Floor,['Levine (A) '],1,0
+1214,AB1214,Melendez (A) ,77,1,3,Floor,['Melendez (A) '],0,1
+1215,AB1215,Ting (A) ,45,17,18,Floor,['Ting (A) '],1,0
+1217,AB1217,Mullin (A) ,65,4,11,Floor,['Mullin (A) '],1,0
+1219,AB1219,Jones-Sawyer (A) ,68,1,12,Floor,['Jones-Sawyer (A) '],1,0
+1220,AB1220,Cristina Garcia (A) ,76,1,4,Floor,['Cristina Garcia (A) '],0,0
+1221,AB1221,"Cooley (A) , Mathis (A) , Reyes (A) ",77,1,3,Floor,"['Cooley (A) ', ' Mathis (A) ', ' Reyes (A) ']",2,1
+1223,AB1223,"Arambula (A) , Aguiar-Curry (A) ",76,1,4,Floor,"['Arambula (A) ', ' Aguiar-Curry (A) ']",2,0
+1226,AB1226,Holden (A) ,62,5,13,Floor,['Holden (A) '],1,0
+1227,AB1227,Obernolte (A) ,78,1,2,Floor,['Obernolte (A) '],0,1
+1229,AB1229,Wicks (A) ,78,1,2,Floor,['Wicks (A) '],1,0
+1232,AB1232,Gloria (A) ,58,18,4,Floor,['Gloria (A) '],1,0
+1233,AB1233,Smith (A) ,78,1,2,Floor,['Smith (A) '],1,0
+1235,AB1235,Chu (A) ,76,1,4,Floor,['Chu (A) '],1,0
+1246,AB1246,Limón (A) ,58,19,3,Floor,['Limón (A) '],1,0
+1248,AB1248,Eduardo Garcia (A) ,77,1,3,Floor,['Eduardo Garcia (A) '],0,0
+1249,AB1249,Maienschein (A) ,76,1,4,Floor,['Maienschein (A) '],1,0
+1251,AB1251,Santiago (A) ,76,1,4,Floor,['Santiago (A) '],1,0
+1253,AB1253,Robert Rivas (A) ,59,17,4,Floor,['Robert Rivas (A) '],0,0
+1254,AB1254,Kamlager-Dove (A) ,54,21,5,Floor,['Kamlager-Dove (A) '],0,0
+1255,AB1255,Robert Rivas (A) ,78,1,2,Floor,['Robert Rivas (A) '],0,0
+1257,AB1257,Salas (A) ,77,1,3,Floor,['Salas (A) '],1,0
+1260,AB1260,Maienschein (A) ,63,12,5,Floor,['Maienschein (A) '],1,0
+1261,AB1261,Jones-Sawyer (A) ,71,1,9,Floor,['Jones-Sawyer (A) '],1,0
+1264,AB1264,Petrie-Norris (A) ,64,1,16,Floor,['Petrie-Norris (A) '],1,0
+1265,AB1265,Robert Rivas (A) ,76,1,4,Floor,['Robert Rivas (A) '],0,0
+1266,AB1266,Robert Rivas (A) ,68,1,12,Floor,['Robert Rivas (A) '],0,0
+1269,AB1269,Blanca Rubio (A) ,77,1,3,Floor,['Blanca Rubio (A) '],0,0
+1270,AB1270,Mark Stone (A) ,56,19,5,Floor,['Mark Stone (A) '],0,0
+1274,AB1274,"Arambula (A) , Salas (A) ",77,1,3,Floor,"['Arambula (A) ', ' Salas (A) ']",2,0
+1275,AB1275,Santiago (A) ,77,1,3,Floor,['Santiago (A) '],1,0
+1278,AB1278,Gabriel (A) ,74,1,6,Floor,['Gabriel (A) '],1,0
+1279,AB1279,Bloom (A) ,46,20,14,Floor,['Bloom (A) '],1,0
+1281,AB1281,Chau (A) ,61,13,6,Floor,['Chau (A) '],1,0
+1282,AB1282,Kalra (A) ,59,15,6,Floor,['Kalra (A) '],1,0
+1286,AB1286,Muratsuchi (A) ,49,12,19,Floor,['Muratsuchi (A) '],1,0
+1287,AB1287,Nazarian (A) ,77,1,3,Floor,['Nazarian (A) '],1,0
+1288,AB1288,Cooley (A) ,77,1,3,Floor,['Cooley (A) '],1,0
+1290,AB1290,Gloria (A) ,74,1,6,Floor,['Gloria (A) '],1,0
+1291,AB1291,Jones-Sawyer (A) ,57,15,8,Floor,['Jones-Sawyer (A) '],1,0
+1292,AB1292,"Bauer-Kahan (A) , Ting (A) ",73,1,7,Floor,"['Bauer-Kahan (A) ', ' Ting (A) ']",2,0
+1294,AB1294,Salas (A) ,76,1,4,Floor,['Salas (A) '],1,0
+1296,AB1296,Gonzalez (A) ,77,1,3,Floor,['Gonzalez (A) '],1,0
+1297,AB1297,McCarty (A) ,48,21,11,Floor,['McCarty (A) '],1,0
+1299,AB1299,Flora (A) ,74,1,6,Floor,['Flora (A) '],0,1
+1301,AB1301,Cooley (A) ,60,1,20,Floor,['Cooley (A) '],1,0
+1303,AB1303,"O'Donnell (A) , McCarty (A) , Quirk-Silva (A) ",78,1,2,Floor,"[""O'Donnell (A) "", ' McCarty (A) ', ' Quirk-Silva (A) ']",3,0
+1304,AB1304,Waldron (A) ,75,1,5,Floor,['Waldron (A) '],0,1
+1305,AB1305,Obernolte (A) ,76,1,4,Floor,['Obernolte (A) '],0,1
+1307,AB1307,Blanca Rubio (A) ,78,1,2,Floor,['Blanca Rubio (A) '],0,0
+1308,AB1308,Cunningham (A) ,69,4,7,Floor,['Cunningham (A) '],0,1
+1309,AB1309,Bauer-Kahan (A) ,66,5,9,Floor,['Bauer-Kahan (A) '],1,0
+1310,AB1310,Reyes (A) ,78,1,2,Floor,['Reyes (A) '],1,0
+1311,AB1311,Ting (A) ,74,1,6,Floor,['Ting (A) '],1,0
+1312,AB1312,Low (A) ,63,4,13,Floor,['Low (A) '],1,0
+1313,AB1313,Luz Rivas (A) ,78,1,2,Floor,['Luz Rivas (A) '],0,0
+1314,AB1314,"Medina (A) , Boerner Horvath (A) , McCarty (A) , Quirk-Silva (A) , Voepel (A) ",63,1,17,Floor,"['Medina (A) ', ' Boerner Horvath (A) ', ' McCarty (A) ', ' Quirk-Silva (A) ', ' Voepel (A) ']",1,0
+1319,AB1319,"Arambula (A) , Bonta (A) ",78,1,2,Floor,"['Arambula (A) ', ' Bonta (A) ']",2,0
+1320,AB1320,"Nazarian (A) , Friedman (A) , Gabriel (A) ",63,1,17,Floor,"['Nazarian (A) ', ' Friedman (A) ', ' Gabriel (A) ']",3,0
+1321,AB1321,Gipson (A) ,66,5,9,Floor,['Gipson (A) '],1,0
+1324,AB1324,Levine (A) ,59,12,9,Floor,['Levine (A) '],1,0
+1327,AB1327,Petrie-Norris (A) ,76,1,4,Floor,['Petrie-Norris (A) '],1,0
+1328,AB1328,Holden (A) ,47,24,9,Floor,['Holden (A) '],1,0
+1331,AB1331,Bonta (A) ,49,24,7,Floor,['Bonta (A) '],1,0
+1336,AB1336,Smith (A) ,76,1,4,Floor,['Smith (A) '],1,0
+1340,AB1340,"Chiu (A) , Bauer-Kahan (A) , Berman (A) , Eggman (A) , Low (A) , McCarty (A) ",60,12,8,Floor,"['Chiu (A) ', ' Bauer-Kahan (A) ', ' Berman (A) ', ' Eggman (A) ', ' Low (A) ', ' McCarty (A) ']",6,0
+1341,AB1341,"Berman (A) , Bauer-Kahan (A) , Chiu (A) , Eggman (A) , Low (A) , McCarty (A) ",77,1,3,Floor,"['Berman (A) ', ' Bauer-Kahan (A) ', ' Chiu (A) ', ' Eggman (A) ', ' Low (A) ', ' McCarty (A) ']",6,0
+1342,AB1342,"Low (A) , Bauer-Kahan (A) , Berman (A) , Chiu (A) , Eggman (A) , McCarty (A) ",62,14,4,Floor,"['Low (A) ', ' Bauer-Kahan (A) ', ' Berman (A) ', ' Chiu (A) ', ' Eggman (A) ', ' McCarty (A) ']",6,0
+1343,AB1343,"Eggman (A) , Bauer-Kahan (A) , Berman (A) , Chiu (A) , Low (A) , McCarty (A) ",66,5,9,Floor,"['Eggman (A) ', ' Bauer-Kahan (A) ', ' Berman (A) ', ' Chiu (A) ', ' Low (A) ', ' McCarty (A) ']",6,0
+1344,AB1344,"Bauer-Kahan (A) , Berman (A) , Chiu (A) , Eggman (A) , Low (A) , McCarty (A) ",74,1,6,Floor,"['Bauer-Kahan (A) ', ' Berman (A) ', ' Chiu (A) ', ' Eggman (A) ', ' Low (A) ', ' McCarty (A) ']",6,0
+1345,AB1345,"McCarty (A) , Bauer-Kahan (A) , Berman (A) , Chiu (A) , Eggman (A) , Low (A) ",69,1,11,Floor,"['McCarty (A) ', ' Bauer-Kahan (A) ', ' Berman (A) ', ' Chiu (A) ', ' Eggman (A) ', ' Low (A) ']",6,0
+1346,AB1346,"Medina (A) , Bauer-Kahan (A) , Berman (A) , Chiu (A) , Eggman (A) , Low (A) , McCarty (A) ",77,1,3,Floor,"['Medina (A) ', ' Bauer-Kahan (A) ', ' Berman (A) ', ' Chiu (A) ', ' Eggman (A) ', ' Low (A) ', ' McCarty (A) ']",7,0
+1349,AB1349,Obernolte (A) ,78,1,2,Floor,['Obernolte (A) '],0,1
+1351,AB1351,Lackey (A) ,78,1,2,Floor,['Lackey (A) '],0,1
+1352,AB1352,Waldron (A) ,74,1,6,Floor,['Waldron (A) '],0,1
+1353,AB1353,Wicks (A) ,52,18,10,Floor,['Wicks (A) '],1,0
+1354,AB1354,Gipson (A) ,64,8,8,Floor,['Gipson (A) '],1,0
+1355,AB1355,Chau (A) ,76,1,4,Floor,['Chau (A) '],1,0
+1357,AB1357,Quirk (A) ,72,1,8,Floor,['Quirk (A) '],1,0
+1360,AB1360,Ting (A) ,44,25,11,Floor,['Ting (A) '],1,0
+1362,AB1362,O'Donnell (A) ,76,1,4,Floor,"[""O'Donnell (A) ""]",1,0
+1365,AB1365,Committee on Veterans Affairs (A)  - (),78,1,2,Floor,['Committee on Veterans Affairs (A)  - ()'],0,0
+1366,AB1366,Gonzalez (A) ,64,6,10,Floor,['Gonzalez (A) '],1,0
+1370,AB1370,Chiu (A) ,74,1,6,Floor,['Chiu (A) '],0,0
+1372,AB1372,Grayson (A) ,76,1,4,Floor,['Grayson (A) '],0,0
+1373,AB1373,Patterson (A) ,77,1,3,Floor,['Patterson (A) '],0,0
+1376,AB1376,"Ramos (A) , Reyes (A) ",74,1,6,Floor,"['Ramos (A) ', ' Reyes (A) ']",0,0
+1377,AB1377,Wicks (A) ,78,1,2,Floor,['Wicks (A) '],0,0
+1379,AB1379,Quirk (A) ,74,1,6,Floor,['Quirk (A) '],0,0
+1380,AB1380,Obernolte (A) ,77,1,3,Floor,['Obernolte (A) '],0,0
+1382,AB1382,Aguiar-Curry (A) ,78,1,2,Floor,['Aguiar-Curry (A) '],0,0
+1383,AB1383,McCarty (A) ,78,1,2,Floor,['McCarty (A) '],0,0
+1385,AB1385,Santiago (A) ,61,15,4,Floor,['Santiago (A) '],0,0
+1387,AB1387,Wood (A) ,78,1,2,Floor,['Wood (A) '],0,0
+1390,AB1390,Mark Stone (A) ,54,19,7,Floor,['Mark Stone (A) '],0,0
+1391,AB1391,Bonta (A) ,76,1,4,Floor,['Bonta (A) '],0,0
+1392,AB1392,Mullin (A) ,76,1,4,Floor,['Mullin (A) '],0,0
+1393,AB1393,"Weber (A) , Arambula (A) ",78,1,2,Floor,"['Weber (A) ', ' Arambula (A) ']",0,0
+1394,AB1394,Daly (A) ,72,2,6,Floor,['Daly (A) '],0,0
+1395,AB1395,Cunningham (A) ,44,6,30,Floor,['Cunningham (A) '],0,0
+1396,AB1396,Obernolte (A) ,76,1,4,Floor,['Obernolte (A) '],0,0
+1399,AB1399,Bloom (A) ,48,18,14,Floor,['Bloom (A) '],0,0
+1400,AB1400,Kamlager-Dove (A) ,73,1,7,Floor,['Kamlager-Dove (A) '],0,0
+1403,AB1403,Carrillo (A) ,57,18,5,Floor,['Carrillo (A) '],0,0
+1404,AB1404,Santiago (A) ,76,1,4,Floor,['Santiago (A) '],0,0
+1406,AB1406,O'Donnell (A) ,77,1,3,Floor,"[""O'Donnell (A) ""]",0,0
+1407,AB1407,Friedman (A) ,71,1,9,Floor,['Friedman (A) '],0,0
+1410,AB1410,"Quirk-Silva (A) , O'Donnell (A) ",78,1,2,Floor,"['Quirk-Silva (A) ', "" O'Donnell (A) ""]",0,0
+1413,AB1413,Gloria (A) ,47,26,7,Floor,['Gloria (A) '],0,0
+1414,AB1414,Friedman (A) ,76,1,4,Floor,['Friedman (A) '],0,0
+1415,AB1415,Friedman (A) ,52,20,8,Floor,['Friedman (A) '],0,0
+1416,AB1416,Cooley (A) ,47,17,16,Floor,['Cooley (A) '],0,0
+1417,AB1417,Blanca Rubio (A) ,66,6,8,Floor,['Blanca Rubio (A) '],0,0
+1420,AB1420,Obernolte (A) ,69,1,10,Floor,['Obernolte (A) '],0,0
+1421,AB1421,Bauer-Kahan (A) ,75,1,5,Floor,['Bauer-Kahan (A) '],0,0
+1423,AB1423,Wicks (A) ,51,10,19,Floor,['Wicks (A) '],0,0
+1424,AB1424,Berman (A) ,75,1,4,Floor,['Berman (A) '],0,0
+1428,AB1428,Calderon (A) ,76,1,4,Floor,['Calderon (A) '],0,0
+1432,AB1432,Dahle (A) ,76,1,4,Floor,['Dahle (A) '],0,0
+1435,AB1435,Nazarian (A) ,78,1,2,Floor,['Nazarian (A) '],0,0
+1436,AB1436,Mark Stone (A) ,78,1,2,Floor,['Mark Stone (A) '],0,0
+1437,AB1437,Chen (A) ,78,1,2,Floor,['Chen (A) '],0,0
+1440,AB1440,Levine (A) ,48,21,11,Floor,['Levine (A) '],0,0
+1442,AB1442,Luz Rivas (A) ,76,1,4,Floor,['Luz Rivas (A) '],0,0
+1443,AB1443,Maienschein (A) ,78,1,2,Floor,['Maienschein (A) '],0,0
+1451,AB1451,Low (A) ,56,19,5,Floor,['Low (A) '],0,0
+1452,AB1452,O'Donnell (A) ,76,1,4,Floor,"[""O'Donnell (A) ""]",0,0
+1454,AB1454,Jones-Sawyer (A) ,76,1,4,Floor,['Jones-Sawyer (A) '],0,0
+1456,AB1456,Kiley (A) ,77,1,3,Floor,['Kiley (A) '],0,0
+1457,AB1457,Reyes (A) ,65,2,13,Floor,['Reyes (A) '],0,0
+1459,AB1459,Arambula (A) ,60,17,3,Floor,['Arambula (A) '],0,0
+1460,AB1460,Weber (A) ,59,17,4,Floor,['Weber (A) '],0,0
+1464,AB1464,Gray (A) ,78,1,2,Floor,['Gray (A) '],0,0
+1466,AB1466,Irwin (A) ,77,1,3,Floor,['Irwin (A) '],0,0
+1467,AB1467,"Salas (A) , Low (A) ",76,1,4,Floor,"['Salas (A) ', ' Low (A) ']",0,0
+1472,AB1472,Mark Stone (A) ,75,1,5,Floor,['Mark Stone (A) '],0,0
+1473,AB1473,Gray (A) ,76,1,4,Floor,['Gray (A) '],0,0
+1475,AB1475,Bauer-Kahan (A) ,76,1,4,Floor,['Bauer-Kahan (A) '],0,0
+1477,AB1477,Gloria (A) ,58,15,7,Floor,['Gloria (A) '],0,0
+1478,AB1478,Carrillo (A) ,44,21,15,Floor,['Carrillo (A) '],0,0
+1482,AB1482,Chiu (A) ,43,31,6,Floor,['Chiu (A) '],0,0
+1483,AB1483,Grayson (A) ,77,1,3,Floor,['Grayson (A) '],0,0
+1484,AB1484,Grayson (A) ,74,1,6,Floor,['Grayson (A) '],0,0
+1485,AB1485,Wicks (A) ,72,1,8,Floor,['Wicks (A) '],0,0
+1486,AB1486,Ting (A) ,53,20,7,Floor,['Ting (A) '],0,0
+1487,AB1487,Chiu (A) ,45,21,14,Floor,['Chiu (A) '],0,0
+1492,AB1492,Boerner Horvath (A) ,76,1,4,Floor,['Boerner Horvath (A) '],0,0
+1493,AB1493,Ting (A) ,76,1,4,Floor,['Ting (A) '],0,0
+1494,AB1494,Aguiar-Curry (A) ,77,1,3,Floor,['Aguiar-Curry (A) '],0,0
+1497,AB1497,Holden (A) ,74,1,6,Floor,['Holden (A) '],0,0
+1500,AB1500,Carrillo (A) ,66,1,14,Floor,['Carrillo (A) '],0,0
+1501,AB1501,Low (A) ,66,1,14,Floor,['Low (A) '],0,0
+1505,AB1505,"O'Donnell (A) , Bonta (A) , McCarty (A) , Smith (A) ",44,19,17,Floor,"[""O'Donnell (A) "", ' Bonta (A) ', ' McCarty (A) ', ' Smith (A) ']",0,0
+1507,AB1507,"Smith (A) , McCarty (A) , O'Donnell (A) ",54,18,8,Floor,"['Smith (A) ', ' McCarty (A) ', "" O'Donnell (A) ""]",0,0
+1509,AB1509,"Mullin (A) , Berman (A) ",63,1,17,Floor,"['Mullin (A) ', ' Berman (A) ']",0,0
+1510,AB1510,Reyes (A) ,65,1,15,Floor,['Reyes (A) '],0,0
+1511,AB1511,Bloom (A) ,78,1,2,Floor,['Bloom (A) '],0,0
+1513,AB1513,Holden (A) ,74,1,6,Floor,['Holden (A) '],0,0
+1516,AB1516,Friedman (A) ,74,1,5,Floor,['Friedman (A) '],0,0
+1519,AB1519,Committee on Business and Professions (A)  - (),78,1,2,Floor,['Committee on Business and Professions (A)  - ()'],0,0
+1520,AB1520,Committee on Business and Professions (A)  - (),78,1,2,Floor,['Committee on Business and Professions (A)  - ()'],0,0
+1521,AB1521,Committee on Business and Professions (A)  - (),78,1,2,Floor,['Committee on Business and Professions (A)  - ()'],0,0
+1522,AB1522,Committee on Business and Professions (A)  - (),78,1,2,Floor,['Committee on Business and Professions (A)  - ()'],0,0
+1523,AB1523,Committee on Business and Professions (A)  - (),78,1,2,Floor,['Committee on Business and Professions (A)  - ()'],0,0
+1529,AB1529,Low (A) ,73,1,7,Floor,['Low (A) '],0,0
+1532,AB1532,Bauer-Kahan (A) ,76,1,4,Floor,['Bauer-Kahan (A) '],0,0
+1535,AB1535,Carrillo (A) ,74,1,6,Floor,['Carrillo (A) '],0,0
+1537,AB1537,Cunningham (A) ,76,1,4,Floor,['Cunningham (A) '],0,0
+1538,AB1538,Weber (A) ,72,1,8,Floor,['Weber (A) '],0,0
+1540,AB1540,Holden (A) ,75,1,5,Floor,['Holden (A) '],0,0
+1541,AB1541,Gray (A) ,74,1,6,Floor,['Gray (A) '],0,0
+1544,AB1544,"Gipson (A) , Gloria (A) ",68,3,9,Floor,"['Gipson (A) ', ' Gloria (A) ']",0,0
+1548,AB1548,"Gabriel (A) , Maienschein (A) ",78,1,2,Floor,"['Gabriel (A) ', ' Maienschein (A) ']",0,0
+1550,AB1550,Bonta (A) ,78,1,2,Floor,['Bonta (A) '],0,0
+1554,AB1554,Gonzalez (A) ,76,1,4,Floor,['Gonzalez (A) '],0,0
+1558,AB1558,Ramos (A) ,77,1,3,Floor,['Ramos (A) '],0,0
+1560,AB1560,Friedman (A) ,77,1,3,Floor,['Friedman (A) '],0,0
+1561,AB1561,Cristina Garcia (A) ,74,1,6,Floor,['Cristina Garcia (A) '],0,0
+1563,AB1563,Santiago (A) ,66,4,10,Floor,['Santiago (A) '],0,0
+1564,AB1564,Berman (A) ,73,1,7,Floor,['Berman (A) '],0,0
+1573,AB1573,Holden (A) ,74,1,6,Floor,['Holden (A) '],0,0
+1576,AB1576,Calderon (A) ,78,1,2,Floor,['Calderon (A) '],0,0
+1578,AB1578,Luz Rivas (A) ,74,1,5,Floor,['Luz Rivas (A) '],0,0
+1580,AB1580,Levine (A) ,77,1,3,Floor,['Levine (A) '],0,0
+1583,AB1583,Eggman (A) ,78,1,2,Floor,['Eggman (A) '],0,0
+1584,AB1584,Quirk (A) ,77,1,3,Floor,['Quirk (A) '],0,0
+1587,AB1587,Obernolte (A) ,77,1,3,Floor,['Obernolte (A) '],0,0
+1588,AB1588,"Gloria (A) , Gray (A) ",78,1,2,Floor,"['Gloria (A) ', ' Gray (A) ']",0,0
+1590,AB1590,Blanca Rubio (A) ,61,3,16,Floor,['Blanca Rubio (A) '],0,0
+1591,AB1591,Cooley (A) ,76,1,4,Floor,['Cooley (A) '],0,0
+1593,AB1593,Reyes (A) ,55,18,7,Floor,['Reyes (A) '],0,0
+1595,AB1595,"Committee on Education (A)  - (Assembly Members O’Donnell (Chair), Kiley (Vice Chair), Kalra, McCarty, Smith, and Weber)",76,1,4,Floor,"['Committee on Education (A)  - (Assembly Members O’Donnell (Chair)', ' Kiley (Vice Chair)', ' Kalra', ' McCarty', ' Smith', ' and Weber)']",0,0
+1596,AB1596,"Committee on Environmental Safety and Toxic Materials (A)  - (Assembly Members Quirk (Chair), Melendez (Vice Chair), Arambula, Bauer-Kahan, Cristina Garcia, Holden, Mathis, and Muratsuchi)",77,1,3,Floor,"['Committee on Environmental Safety and Toxic Materials (A)  - (Assembly Members Quirk (Chair)', ' Melendez (Vice Chair)', ' Arambula', ' Bauer-Kahan', ' Cristina\xa0Garcia', ' Holden', ' Mathis', ' and Muratsuchi)']",0,0
+1600,AB1600,Kalra (A) ,45,27,8,Floor,['Kalra (A) '],0,0
+1602,AB1602,Low (A) ,55,18,7,Floor,['Low (A) '],0,0
+1603,AB1603,Wicks (A) ,78,1,2,Floor,['Wicks (A) '],0,0
+1605,AB1605,"Ting (A) , Bloom (A) ",51,18,11,Floor,"['Ting (A) ', ' Bloom (A) ']",0,0
+1607,AB1607,Boerner Horvath (A) ,77,1,3,Floor,['Boerner Horvath (A) '],0,0
+1611,AB1611,Chiu (A) ,48,9,23,Floor,['Chiu (A) '],0,0
+1613,AB1613,O'Donnell (A) ,64,13,3,Floor,"[""O'Donnell (A) ""]",0,0
+1614,AB1614,Gipson (A) ,78,1,2,Floor,['Gipson (A) '],0,0
+1618,AB1618,Jones-Sawyer (A) ,55,19,6,Floor,['Jones-Sawyer (A) '],0,0
+1622,AB1622,Carrillo (A) ,76,1,4,Floor,['Carrillo (A) '],0,0
+1623,AB1623,"Robert Rivas (A) , O'Donnell (A) ",78,1,2,Floor,"['Robert Rivas (A) ', "" O'Donnell (A) ""]",0,0
+1633,AB1633,Grayson (A) ,76,1,4,Floor,['Grayson (A) '],0,0
+1638,AB1638,Obernolte (A) ,60,7,13,Floor,['Obernolte (A) '],0,0
+1642,AB1642,Wood (A) ,67,2,11,Floor,['Wood (A) '],0,0
+1643,AB1643,Eduardo Garcia (A) ,77,1,3,Floor,['Eduardo Garcia (A) '],0,0
+1644,AB1644,Levine (A) ,77,1,3,Floor,['Levine (A) '],0,0
+1645,AB1645,"Blanca Rubio (A) , Reyes (A) ",60,14,6,Floor,"['Blanca Rubio (A) ', ' Reyes (A) ']",0,0
+1650,AB1650,Cooley (A) ,78,1,2,Floor,['Cooley (A) '],0,0
+1652,AB1652,Wicks (A) ,63,10,7,Floor,['Wicks (A) '],0,0
+1657,AB1657,Eduardo Garcia (A) ,76,1,4,Floor,['Eduardo Garcia (A) '],0,0
+1658,AB1658,Carrillo (A) ,78,1,2,Floor,['Carrillo (A) '],0,0
+1659,AB1659,Bloom (A) ,67,1,13,Floor,['Bloom (A) '],0,0
+1662,AB1662,"Ramos (A) , Gloria (A) ",76,1,4,Floor,"['Ramos (A) ', ' Gloria (A) ']",0,0
+1665,AB1665,Chau (A) ,77,1,3,Floor,['Chau (A) '],0,0
+1666,AB1666,Reyes (A) ,74,1,6,Floor,['Reyes (A) '],0,0
+1667,AB1667,Santiago (A) ,76,1,4,Floor,['Santiago (A) '],0,0
+1668,AB1668,Carrillo (A) ,78,1,2,Floor,['Carrillo (A) '],0,0
+1669,AB1669,Bonta (A) ,49,22,9,Floor,['Bonta (A) '],0,0
+1671,AB1671,Berman (A) ,78,1,2,Floor,['Berman (A) '],0,0
+1677,AB1677,Weber (A) ,54,20,6,Floor,['Weber (A) '],0,0
+1680,AB1680,Limón (A) ,67,1,12,Floor,['Limón (A) '],0,0
+1681,AB1681,Gonzalez (A) ,76,1,4,Floor,['Gonzalez (A) '],0,0
+1684,AB1684,Maienschein (A) ,64,9,7,Floor,['Maienschein (A) '],0,0
+1687,AB1687,"Jones-Sawyer (A) , Calderon (A) ",78,1,2,Floor,"['Jones-Sawyer (A) ', ' Calderon (A) ']",0,0
+1688,AB1688,"Calderon (A) , Jones-Sawyer (A) ",78,1,2,Floor,"['Calderon (A) ', ' Jones-Sawyer (A) ']",0,0
+1694,AB1694,O'Donnell (A) ,66,1,14,Floor,"[""O'Donnell (A) ""]",0,0
+1695,AB1695,Carrillo (A) ,57,17,6,Floor,['Carrillo (A) '],0,0
+1696,AB1696,"Chau (A) , Cervantes (A) ",78,1,2,Floor,"['Chau (A) ', ' Cervantes (A) ']",0,0
+1699,AB1699,Levine (A) ,75,1,5,Floor,['Levine (A) '],0,0
+1702,AB1702,Luz Rivas (A) ,78,1,2,Floor,['Luz Rivas (A) '],0,0
+1703,AB1703,Bloom (A) ,78,1,2,Floor,['Bloom (A) '],0,0
+1705,AB1705,Bonta (A) ,78,1,2,Floor,['Bonta (A) '],0,0
+1707,AB1707,Berman (A) ,66,2,12,Floor,['Berman (A) '],0,0
+1709,AB1709,Jones-Sawyer (A) ,74,1,6,Floor,['Jones-Sawyer (A) '],0,0
+1710,AB1710,Wood (A) ,71,1,9,Floor,['Wood (A) '],0,0
+1714,AB1714,Blanca Rubio (A) ,71,1,9,Floor,['Blanca Rubio (A) '],0,0
+1718,AB1718,Levine (A) ,57,19,4,Floor,['Levine (A) '],0,0
+1723,AB1723,Wood (A) ,76,1,4,Floor,['Wood (A) '],0,0
+1725,AB1725,Carrillo (A) ,68,1,12,Floor,['Carrillo (A) '],0,0
+1727,AB1727,Weber (A) ,78,1,2,Floor,['Weber (A) '],0,0
+1729,AB1729,Smith (A) ,78,1,2,Floor,['Smith (A) '],0,0
+1731,AB1731,Boerner Horvath (A) ,42,23,15,Floor,['Boerner Horvath (A) '],0,0
+1735,AB1735,Bauer-Kahan (A) ,75,1,5,Floor,['Bauer-Kahan (A) '],0,0
+1736,AB1736,Daly (A) ,76,1,4,Floor,['Daly (A) '],0,0
+1737,AB1737,Obernolte (A) ,77,1,3,Floor,['Obernolte (A) '],0,0
+1743,AB1743,Bloom (A) ,77,1,3,Floor,['Bloom (A) '],0,0
+1747,AB1747,Gonzalez (A) ,56,14,10,Floor,['Gonzalez (A) '],0,0
+1748,AB1748,Bonta (A) ,76,1,4,Floor,['Bonta (A) '],0,0
+1751,AB1751,Chiu (A) ,78,1,2,Floor,['Chiu (A) '],0,0
+1753,AB1753,Carrillo (A) ,57,17,6,Floor,['Carrillo (A) '],0,0
+1754,AB1754,Jones-Sawyer (A) ,78,1,2,Floor,['Jones-Sawyer (A) '],0,0
+1759,AB1759,Salas (A) ,78,1,2,Floor,['Salas (A) '],0,0
+1763,AB1763,Chiu (A) ,72,1,8,Floor,['Chiu (A) '],0,0
+1766,AB1766,Bloom (A) ,77,1,3,Floor,['Bloom (A) '],0,0
+1767,AB1767,Ramos (A) ,78,1,2,Floor,['Ramos (A) '],0,0
+1768,AB1768,Carrillo (A) ,61,12,7,Floor,['Carrillo (A) '],0,0
+1770,AB1770,Frazier (A) ,78,1,2,Floor,['Frazier (A) '],0,0
+1774,AB1774,Bonta (A) ,78,1,2,Floor,['Bonta (A) '],0,0
+1779,AB1779,Daly (A) ,76,1,4,Floor,['Daly (A) '],0,0
+1780,AB1780,Carrillo (A) ,76,1,4,Floor,['Carrillo (A) '],0,0
+1782,AB1782,Chau (A) ,49,18,13,Floor,['Chau (A) '],0,0
+1783,AB1783,Robert Rivas (A) ,59,11,10,Floor,['Robert Rivas (A) '],0,0
+1784,AB1784,"Santiago (A) , Chiu (A) , Gonzalez (A) ",60,12,8,Floor,"['Santiago (A) ', ' Chiu (A) ', ' Gonzalez (A) ']",0,0
+1788,AB1788,Bloom (A) ,49,16,15,Floor,['Bloom (A) '],0,0
+1790,AB1790,Wicks (A) ,70,1,10,Floor,['Wicks (A) '],0,0
+1795,AB1795,Kamlager-Dove (A) ,43,22,15,Floor,['Kamlager-Dove (A) '],0,0
+1800,AB1800,Committee on Agriculture (A)  - (),76,1,4,Floor,['Committee on Agriculture (A)  - ()'],0,0
+1801,AB1801,Committee on Agriculture (A)  - (),76,2,2,Floor,['Committee on Agriculture (A)  - ()'],0,0
+1802,AB1802,"Committee on Health (A)  - (Assembly Members Wood (Chair), Mayes (Vice Chair), Aguiar-Curry, Bigelow, Bonta, Carrillo, Flora, Limón, Nazarian, Rodriguez, Santiago, and Waldron)",74,1,6,Floor,"['Committee on Health (A)  - (Assembly Members Wood (Chair)', ' Mayes (Vice Chair)', ' Aguiar-Curry', ' Bigelow', ' Bonta', ' Carrillo', ' Flora', ' Limón', ' Nazarian', ' Rodriguez', ' Santiago', ' and Waldron)']",0,0
+1803,AB1803,"Committee on Health (A)  - (Assembly Members Wood (Chair), Mayes (Vice Chair), Aguiar-Curry, Bigelow, Bonta, Carrillo, Flora, Limón, Nazarian, Rodriguez, Santiago, and Waldron)",76,1,4,Floor,"['Committee on Health (A)  - (Assembly Members Wood (Chair)', ' Mayes (Vice Chair)', ' Aguiar-Curry', ' Bigelow', ' Bonta', ' Carrillo', ' Flora', ' Limón', ' Nazarian', ' Rodriguez', ' Santiago', ' and Waldron)']",0,0
+1804,AB1804,Committee on Labor and Employment (A)  - (),76,1,4,Floor,['Committee on Labor and Employment (A)  - ()'],0,0
+1805,AB1805,Committee on Labor and Employment (A)  - (),62,11,7,Floor,['Committee on Labor and Employment (A)  - ()'],0,0
+1808,AB1808,"Committee on Jobs, Economic Development, and the Economy (A)  - (Assembly Members Cervantes (Chair), Cunningham (Vice Chair), Chau, Chen, Ramos, Luz Rivas, and Smith)",77,1,3,Floor,"['Committee on Jobs', ' Economic Development', ' and the Economy (A)  - (Assembly Members Cervantes (Chair)', ' Cunningham (Vice Chair)', ' Chau', ' Chen', ' Ramos', ' Luz\xa0Rivas', ' and Smith)']",0,0
+1809,AB1809,"Committee on Jobs, Economic Development, and the Economy (A)  - (Assembly Members Cervantes (Chair), Cunningham (Vice Chair), Chau, Chen, Ramos, Luz Rivas, and Smith)",78,1,2,Floor,"['Committee on Jobs', ' Economic Development', ' and the Economy (A)  - (Assembly Members Cervantes (Chair)', ' Cunningham (Vice Chair)', ' Chau', ' Chen', ' Ramos', ' Luz\xa0Rivas', ' and Smith)']",0,0
+1810,AB1810,Committee on Transportation (A)  - (),74,1,6,Floor,['Committee on Transportation (A)  - ()'],0,0
+1812,AB1812,Committee on Insurance (A)  - (),76,1,4,Floor,['Committee on Insurance (A)  - ()'],0,0
+1813,AB1813,Committee on Insurance (A)  - (),74,1,6,Floor,['Committee on Insurance (A)  - ()'],0,0
+1814,AB1814,Committee on Insurance (A)  - (),76,1,4,Floor,['Committee on Insurance (A)  - ()'],0,0
+1815,AB1815,Committee on Insurance (A)  - (),74,1,6,Floor,['Committee on Insurance (A)  - ()'],0,0
+1816,AB1816,"Committee on Insurance (A)  - (Assembly Members Daly (Chair), Mayes (Vice Chair), Berman, Calderon, Chu, Cooley, Cooper, Frazier, Gipson, Grayson, and Kamlager-Dove)",76,1,4,Floor,"['Committee on Insurance (A)  - (Assembly Members Daly (Chair)', ' Mayes (Vice Chair)', ' Berman', ' Calderon', ' Chu', ' Cooley', ' Cooper', ' Frazier', ' Gipson', ' Grayson', ' and Kamlager-Dove)']",0,0
+1818,AB1818,"Committee on Judiciary (A)  - (Assembly Members Mark Stone (Chair), Gallagher (Vice Chair), Chau, Chiu, Gonzalez, Holden, Kalra, Kiley, Obernolte, Petrie-Norris, and Reyes)",78,1,2,Floor,"['Committee on Judiciary (A)  - (Assembly Members Mark\xa0Stone (Chair)', ' Gallagher (Vice Chair)', ' Chau', ' Chiu', ' Gonzalez', ' Holden', ' Kalra', ' Kiley', ' Obernolte', ' Petrie-Norris', ' and Reyes)']",0,0
+1819,AB1819,"Committee on Judiciary (A)  - (Assembly Members Mark Stone (Chair), Gallagher (Vice Chair), Chau, Chiu, Gonzalez, Holden, Kalra, Kiley, Maienschein, Obernolte, Petrie-Norris, and Reyes)",77,1,3,Floor,"['Committee on Judiciary (A)  - (Assembly Members Mark\xa0Stone (Chair)', ' Gallagher (Vice Chair)', ' Chau', ' Chiu', ' Gonzalez', ' Holden', ' Kalra', ' Kiley', ' Maienschein', ' Obernolte', ' Petrie-Norris', ' and Reyes)']",0,0
+1820,AB1820,"Committee on Judiciary (A)  - (Assembly Members Mark Stone (Chair), Chau, Chiu, Gonzalez, Holden, Kalra, Obernolte, Petrie-Norris, and Reyes)",77,1,3,Floor,"['Committee on Judiciary (A)  - (Assembly Members Mark\xa0Stone (Chair)', ' Chau', ' Chiu', ' Gonzalez', ' Holden', ' Kalra', ' Obernolte', ' Petrie-Norris', ' and Reyes)']",0,0
+1821,AB1821,"Committee on Judiciary (A)  - (Assembly Members Mark Stone (Chair), Chau, Chiu, Gonzalez, Holden, Kalra, Petrie-Norris, and Reyes)",59,17,4,Floor,"['Committee on Judiciary (A)  - (Assembly Members Mark\xa0Stone (Chair)', ' Chau', ' Chiu', ' Gonzalez', ' Holden', ' Kalra', ' Petrie-Norris', ' and Reyes)']",0,0
+1823,AB1823,"Committee on Natural Resources (A)  - (Assembly Members Friedman (Chair), Flora (Vice Chair), Chau, Eggman, Cristina Garcia, Limón, Mathis, McCarty, Muratsuchi, and Mark Stone)",77,1,3,Floor,"['Committee on Natural Resources (A)  - (Assembly Members Friedman (Chair)', ' Flora (Vice Chair)', ' Chau', ' Eggman', ' Cristina\xa0Garcia', ' Limón', ' Mathis', ' McCarty', ' Muratsuchi', ' and Mark\xa0Stone)']",0,0
+1825,AB1825,"Committee on Governmental Organization (A)  - (Assembly Members Gray (Chair), Bigelow (Vice Chair), Aguiar-Curry, Berman, Bonta, Brough, Cooley, Cooper, Daly, Gipson, Jones-Sawyer, Low, Melendez, Quirk-Silva, and Salas))",74,1,6,Floor,"['Committee on Governmental Organization (A)  - (Assembly Members Gray (Chair)', ' Bigelow (Vice Chair)', ' Aguiar-Curry', ' Berman', ' Bonta', ' Brough', ' Cooley', ' Cooper', ' Daly', ' Gipson', ' Jones-Sawyer', ' Low', ' Melendez', ' Quirk-Silva', ' and Salas))']",0,0
+1826,AB1826,"Committee on Governmental Organization (A)  - (Assembly Members Gray (Chair), Bigelow (Vice Chair), Aguiar-Curry, Berman, Bonta, Brough, Cooley, Cooper, Daly, Gallagher, Gipson, Jones-Sawyer, Low, Melendez, Quirk-Silva, and Salas))",76,1,4,Floor,"['Committee on Governmental Organization (A)  - (Assembly Members Gray (Chair)', ' Bigelow (Vice Chair)', ' Aguiar-Curry', ' Berman', ' Bonta', ' Brough', ' Cooley', ' Cooper', ' Daly', ' Gallagher', ' Gipson', ' Jones-Sawyer', ' Low', ' Melendez', ' Quirk-Silva', ' and Salas))']",0,0
+1827,AB1827,"Committee on Governmental Organization (A)  - (Assembly Members Gray (Chair), Bigelow (Vice Chair), Aguiar-Curry, Berman, Bonta, Brough, Cooley, Cooper, Daly, Gallagher, Gipson, Jones-Sawyer, Low, Melendez, Quirk-Silva, and Salas))",74,1,6,Floor,"['Committee on Governmental Organization (A)  - (Assembly Members Gray (Chair)', ' Bigelow (Vice Chair)', ' Aguiar-Curry', ' Berman', ' Bonta', ' Brough', ' Cooley', ' Cooper', ' Daly', ' Gallagher', ' Gipson', ' Jones-Sawyer', ' Low', ' Melendez', ' Quirk-Silva', ' and Salas))']",0,0
+1828,AB1828,"Committee on Governmental Organization (A)  - (Assembly Members Gray (Chair), Bigelow (Vice Chair), Aguiar-Curry, Berman, Bonta, Brough, Cooley, Cooper, Daly, Gallagher, Gipson, Jones-Sawyer, Low, Melendez, Quirk-Silva, and Salas))",74,1,6,Floor,"['Committee on Governmental Organization (A)  - (Assembly Members Gray (Chair)', ' Bigelow (Vice Chair)', ' Aguiar-Curry', ' Berman', ' Bonta', ' Brough', ' Cooley', ' Cooper', ' Daly', ' Gallagher', ' Gipson', ' Jones-Sawyer', ' Low', ' Melendez', ' Quirk-Silva', ' and Salas))']",0,0
+1830,AB1830,Gonzalez (A) ,77,1,3,Floor,['Gonzalez (A) '],0,0
